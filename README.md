@@ -8,3 +8,4 @@ From the top-level repository:
 
 * ruby
 * jekyll
+* bundler

@@ -3,56 +3,23 @@ Slate Theme for GitHub Pages
 by Jason Costello, @jsncostello
 *******************************************************************************/
 
-@import url(github-light.css);
-
-/*******************************************************************************
-MeyerWeb Reset
-*******************************************************************************/
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font: inherit;
-  vertical-align: baseline;
-}
-
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-  display: block;
-}
-
-ol, ul {
-  list-style: none;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
+@import url(normalize.css);
+@import url(pygment_trac.css);
 
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
 
-body {
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+body {
   color:#373737;
   background: #212121;
-  font-size: 16px;
+  font-size: 18px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -61,7 +28,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color: white;
+  color:#222222;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -74,7 +41,7 @@ h1 {
 h2 {
   padding-bottom: 10px;
   font-size: 32px;
-  background: url('../images/bg_hr.png') repeat-x bottom;
+  background: url('/images/bg_hr.png') repeat-x bottom;
 }
 
 h3 {
@@ -94,6 +61,7 @@ h6 {
 }
 
 p {
+  font-size: 18px;
   margin: 10px 0 15px 0;
 }
 
@@ -103,19 +71,8 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #db2a2a;
   text-shadow: none;
-
-  transition: color 0.5s ease;
-  transition: text-shadow 0.5s ease;
-  -webkit-transition: color 0.5s ease;
-  -webkit-transition: text-shadow 0.5s ease;
-  -moz-transition: color 0.5s ease;
-  -moz-transition: text-shadow 0.5s ease;
-  -o-transition: color 0.5s ease;
-  -o-transition: text-shadow 0.5s ease;
-  -ms-transition: color 0.5s ease;
-  -ms-transition: text-shadow 0.5s ease;
 }
 
 a:hover, a:focus {text-decoration: underline;}
@@ -168,19 +125,18 @@ pre, code {
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
+
+  box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
 
 pre {
-  width: 100%;
   padding: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
   overflow: auto;
 }
 
 code {
   padding: 3px;
   margin: 0 3px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
 
 pre code {
@@ -190,25 +146,14 @@ pre code {
 
 blockquote {
   color: #666;
-  margin-bottom: 20px;
-  padding: 0 0 0 20px;
+  margin: 0 0 20px 2px;
+  padding-left: 20px;
   border-left: 3px solid #bbb;
+  font-style: italic;
 }
-
 
 ul, ol, dl {
-  margin-bottom: 15px
-}
-
-ul {
-  list-style-position: inside;
-  list-style: disc;
-  padding-left: 20px;
-}
-
-ol {
-  list-style-position: inside;
-  list-style: decimal;
+  margin: 0 0 15px 0;
   padding-left: 20px;
 }
 
@@ -217,7 +162,8 @@ dl dt {
 }
 
 dl dd {
-  padding-left: 20px;
+  margin-left: 0;
+  padding-left: 0;
   font-style: italic;
 }
 
@@ -230,7 +176,7 @@ hr {
   height: 1px;
   margin-bottom: 5px;
   border: none;
-  background: url('../images/bg_hr.png') repeat-x center;
+  background: url('/images/bg_hr.png') repeat-x center;
 }
 
 table {
@@ -261,19 +207,25 @@ Full-Width Styles
 *******************************************************************************/
 
 .outer {
-    width: 100%;
+  width: 100%;
 }
 
-
-
 .inner {
+  position: relative;
+  max-width: 640px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+/* added this for picture header */
+.picheader {
   position: relative;
   width: 95%;
   padding: 20px 10px;
   margin-left: auto;
   margin-right: auto;
   display: block;
-  background-image: url(../images/group.jpg);
+  background-image: url(/images/group.jpg);
   background-repeat: no-repeat;
   background-position: center;
   text-align: center;
@@ -298,7 +250,7 @@ div.transbox h1 {
 div.transbox h2 {
     color: #373737;
 }
-
+/* --- */
 
 #forkme_banner {
   display: block;
@@ -317,11 +269,6 @@ div.transbox h2 {
 
 #header_wrap {
   background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
 }
 
 #header_wrap .inner {
@@ -397,8 +344,6 @@ div.transbox h2 {
   background: #212121;
 }
 
-
-
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
@@ -450,5 +395,4 @@ Small Device Styles
     max-width: 480px;
     font-size: 11px;
   }
-
 }

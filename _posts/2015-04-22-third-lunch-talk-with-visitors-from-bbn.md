@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Third Lunch Talk with Visitors from BBN'
+title: "Third Lunch Talk with Visitors from BBN"
 date: 2015-04-22 00:00:00
 categories: lunch
 ---
