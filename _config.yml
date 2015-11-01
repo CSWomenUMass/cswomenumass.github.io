@@ -11,5 +11,4 @@ ugrad_cochairs: "Cassian Corey, Supriya Kankure"
 
 # Build settings
 markdown: kramdown
-source: _source
-destination: _deploy
+
