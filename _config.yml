@@ -5,11 +5,10 @@ description: Promoting and supporting the representation and interests of women 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cics.umass.edu/~women"
 twitter_username: CSWomenUMass
-github_username: cwomenumass
+github_username: cswomenumass
 grad_cochairs: "Emma Tosch, Emma Strubell"
 ugrad_cochairs: "Cassian Corey, Supriya Kankure"
 
 # Build settings
 markdown: kramdown
-source: _source
-destination: _deploy
+
