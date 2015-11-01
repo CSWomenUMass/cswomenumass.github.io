@@ -13,4 +13,3 @@ posts: _posts
 # Build settings
 markdown: kramdown
 paginate: 5
-paginate_path: "/lunch/page/:num"
