@@ -1,0 +1,15 @@
+# Site settings
+title: CS Women UMass Amherst
+email: womenchairs@cs.umass.edu
+description: Promoting and supporting the representation and interests of women in computing.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cics.umass.edu/~women"
+twitter_username: CSWomenUMass
+github_username: cwomenumass
+grad_cochairs: "Emma Tosch, Emma Strubell"
+ugrad_cochairs: "Cassian Corey, Supriya Kankure"
+
+# Build settings
+markdown: kramdown
+source: _source
+destination: _deploy

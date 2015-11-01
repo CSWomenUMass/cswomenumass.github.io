@@ -261,8 +261,13 @@ Full-Width Styles
 *******************************************************************************/
 
 .outer {
-  width: 100%;
+    width: 100%;
+    background-image: url(../images/group.jpg);
+    background-repeat: no-repeat;
+    margin: 0 auto;
 }
+
+
 
 .inner {
   position: relative;
