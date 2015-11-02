@@ -7,7 +7,7 @@ categories: lunch
 
 Today we were thrilled to host Bobby Simidcheiva (PhD '15) and Vicky Manfredi (PhD '09) from Raytheon BBN! They gave a presentation about their work with BBN and held an open Q&A with students after the event. 
 
-Raytheon BBN kindly sponsored this lunch. In addition two our two guests and a recruiter, 16 graduate students, 2 undergraduates, and one staff member attended. After the event ended, some of the students who attended graciously stepped outside for a photo in the wind:
+Raytheon BBN kindly sponsored this lunch. In addition two our two guests and a recruiter, 16 graduate students, 2 undergraduates, and one staff member attended. After the event ended, some of the students who attended graciously stepped outside for a photo in the wind: ![](/images/bbn.jpg)
 
 # Abstract  
 
