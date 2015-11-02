@@ -17,8 +17,10 @@ When designing a bridge, how can we minimize the amount of building materials wh
 
 
 # Searching for a Career Path
+![World of goo](/images/bridge.png)
+
  A career path is exactly that: a path (and not a shortest path!). Search and traversal of it is a lot like what you learn about in Algorithms and AI: you're discovering new nodes and edges, and you're trying to define the function to optimize. I'll talk about my own pathway to my current position, the choices I've made and why I would make them again.
 
 #Bio
-![Alexandra Meliou](/images/lee-st.john.jpg){:style="float: left; margin:0 10px 10px 0;"}
+![Audrey St. John](/images/lee-st.john.jpg){:style="float: left; margin:0 10px 10px 0;"}
 Audrey St. John is an Associate Professor of Computer Science at Mount Holyoke College. Her research is motivated by computational challenges arising in robotics, biology and Computer Aided Design; in 2013, she received a Faculty Early Career Development (CAREER) award from the National Science Foundation (NSF). St. John earned a B.A. in Computer Science and Mathematics from Wellesley College (Summa Cum Laude, Honors in CS), followed by an M.S. and Ph.D. in Computer Science from UMass Amherst (her graduate work was partially supported by an NSF Graduate Research Fellowship). 
