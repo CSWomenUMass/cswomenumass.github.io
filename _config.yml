@@ -8,8 +8,8 @@ twitter_username: CSWomenUMass
 github_username: cswomenumass
 grad_cochairs: "Emma Tosch, Emma Strubell"
 ugrad_cochairs: "Cassian Corey, Supriya Kankure"
-posts: blog-posts
 
 # Build settings
 markdown: kramdown
 paginate: 5
+posts: _posts/blog-posts
