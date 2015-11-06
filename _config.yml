@@ -12,4 +12,4 @@ ugrad_cochairs: "Cassian Corey, Supriya Kankure"
 # Build settings
 markdown: kramdown
 paginate: 5
-posts: _posts/blog-posts
+posts: _posts/blog-posts 
