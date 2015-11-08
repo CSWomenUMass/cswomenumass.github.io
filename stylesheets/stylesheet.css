@@ -260,6 +260,15 @@ div.transbox h2 {
     border: 1px solid;
     float: left;
 }
+
+.officers {
+    max-width: 200px;
+    max-height: 200px;
+    position: float;
+    padding: 1px;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid;
+}
 /* --- */
 
 #forkme_banner {
