@@ -21,11 +21,19 @@
       </a>
 
       <div class="trigger">
-	<a class="page-link" style="color:white;" href="/index.html">Blog</a>
-        {% for page in site.pages %}
-          {% if page.title and page.title != 'Blog' %}
-            <a class="page-link" style="color:white;" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
+	{% assign url = page.url|remove:'index.html' %}
+	{% for link in site.navigation %}
+
+	{% if url == link.url or page.url == link.url %}
+	<a class="page-link"
+	   style="color:white; font-weight: bold;"
+	   href="{{ link.url | prepend: site.baseurl }}">{{ link.text }}</a>
+	{% else %}
+	<a class="page-link"
+	   style="color:white;"
+	   href="{{ link.url | prepend: site.baseurl }}">{{ link.text }}</a>
+	{% endif %}
+	
         {% endfor %}
       </div>
     </nav>

@@ -29,3 +29,18 @@ authors:
   strubell:
    display_name: Emma Strubell
    web: http://cics.umass.edu/~strubell
+
+# Recognized pages
+navigation:
+- text: About
+  url: /about.html
+- text: Blog
+  url: /index.html
+- text: Events
+  url: /events.html
+- text: Resources
+  url: /resources.html
+- text: Publicity
+  url: /publicity.html
+- text: Get Involved!
+  url: /getinvolved.html
