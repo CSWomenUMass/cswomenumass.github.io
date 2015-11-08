@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-permalink: events.html
+permalink: resources.html
 ---
 
 # Organizations

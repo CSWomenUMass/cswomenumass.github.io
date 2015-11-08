@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Events
-permalink: events.htm
+permalink: events.html
 ---
 
 # Technical Workshop Series
