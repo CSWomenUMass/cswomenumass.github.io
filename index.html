@@ -28,20 +28,20 @@ title: Blog
       {{ post.content | truncatewords: 50 | strip_html}}
 	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>
-  
-   </article>
+    <br/><br/>
+  </article>
   {% endfor %}
 </div>
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
-  <li class="previous">
+  <li class="previous" style="float: left;">
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: 'index.html', '/' | replace: '//', '/' }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
-  <li class="next">
+  <li class="next" style="float: right;">
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: 'index.html', '/' | replace: '//', '/' }}">Older Posts &rarr;</a>
   </li>
   {% endif %}
