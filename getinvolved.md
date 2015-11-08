@@ -4,7 +4,7 @@ title: Get Involved!
 permalink: getinvolved.html
 ---
 
-Are you interested in...
+# Are you interested in...
 
  - Helping us attract and retain more female students and faculty in CS?
  - Finding a mentor or a mentee? 
