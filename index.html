@@ -7,9 +7,6 @@ title: Blog
   {% for post in paginator.posts %}
   <article class="post-preview">
 
-    {% if post.thumbnail %}
-    <img src="{{ post.thumbnail }}" class="thumbnail"></img>
-    {% endif %}
     
     <a href="{{ post.url | prepend: site.baseurl }}">
       <h2 class="post-title"> {{ post.title }}</h2>
@@ -25,6 +22,10 @@ title: Blog
     </p>
   
     <div class="post-entry">
+          {% if post.thumbnail %}
+    <img src="{{ post.thumbnail }}" class="thumbnail"></img>
+    {% endif %}
+
       {{ post.content | truncatewords: 50 | strip_html}}
 	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>

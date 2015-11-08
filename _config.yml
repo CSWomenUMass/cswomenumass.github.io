@@ -12,4 +12,18 @@ ugrad_cochairs: "Cassian Corey, Supriya Kankure"
 # Build settings
 markdown: kramdown
 paginate: 5
-posts: _posts/blog-posts 
+posts: _posts/blog-posts
+
+# Blog magic
+authors:
+  tosch:
+    display_name: Emma Tosch
+    gravatar: df6572b0616ed24c7efbfe9b5daeb2af
+    email: etosch@cs.umass.edu
+    web: http://cics.umass.edu/~etosch
+    twitter: emmatosch
+    github: etosch
+  myungha:
+   display_name: Myung-ha Jang
+  strubell:
+   display_name: Emma Strubell
