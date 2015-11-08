@@ -22,11 +22,10 @@ title: Blog
     </p>
   
     <div class="post-entry">
-          {% if post.thumbnail %}
-    <img src="{{ post.thumbnail }}" class="thumbnail"></img>
-    {% endif %}
-
-      {{ post.content | truncatewords: 50 | strip_html}}
+      {% if post.thumbnail %}
+        <img class="thumbnail" style='background-image: url({{ post.thumbnail }});'></img>
+      {% endif %}
+      {{ post.content | truncatewords: 100 | strip_html}}
 	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>
     <br/><br/>
@@ -37,14 +36,14 @@ title: Blog
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
-  <li class="previous" style="float: left;">
+  <ul class="previous" style="float: left;">
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: 'index.html', '/' | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
+  </ul>
   {% endif %}
   {% if paginator.next_page %}
-  <li class="next" style="float: right;">
+  <ul class="next" style="float: right;">
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: 'index.html', '/' | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
+  </ul>
   {% endif %}
 </ul>
 {% endif %}

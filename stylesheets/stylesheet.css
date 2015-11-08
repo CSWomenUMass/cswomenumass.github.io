@@ -96,13 +96,12 @@ img {
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
-
+/*  border: none;
   box-shadow: 0 0 5px #ebebeb;
   -webkit-box-shadow: 0 0 5px #ebebeb;
   -moz-box-shadow: 0 0 5px #ebebeb;
   -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
+  -ms-box-shadow: 0 0 5px #ebebeb;*/
 }
 
 p img {
@@ -211,8 +210,8 @@ Full-Width Styles
 }
 
 .inner {
-    position: relative;
-    max-width: 900px; /* set the max width equal to the group picture's width */
+  position: relative;
+  max-width: 900px; /* set the max width equal to the group picture's width */
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -220,7 +219,7 @@ Full-Width Styles
 /* added this for picture header */
 .picheader {
   position: relative;
-  width: 95%;
+  width: 100%;
   padding: 20px 10px;
   margin-left: auto;
   margin-right: auto;
@@ -239,7 +238,26 @@ div.transbox {
     max-width: 800px;
     color: #373737;
     margin-left: auto;
-    margin-right:auto;
+    margin-right: auto;
+    display:block;
+}
+
+div.headerwords {
+  background-image: url(/images/cs-women-words.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-left: auto;
+  margin-right: auto
+  display:block;
+  width: 100%;
+      margin: 30px;
+    background-color: #ffffff;
+    opacity: 0.7;
+    filter: alpha(opacity=60);
+    max-width: 800px;
+    color: #373737;
+    margin-left: auto;
+    margin-right: auto;
     display:block;
 }
 
@@ -251,7 +269,7 @@ div.transbox h2 {
     color: #373737;
 }
 
-.thumbnail {
+/*.thumbnail {
     max-width: 100px;
     max-height: 100px;
     position: float;
@@ -259,6 +277,23 @@ div.transbox h2 {
     margin-right: 10px;
     border: 1px solid;
     float: left;
+}*/
+
+.thumbnail {
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-top: 0px;
+  float: left;
+  border: none;
+}
+
+.post-entry {
+  min-height: 170px;
 }
 
 .officers {
@@ -317,7 +352,7 @@ div.transbox h2 {
   bottom: -40px;
   right: 0;
   height: 70px;
-  background: url('../images/icon_download.png') no-repeat 0% 90%;
+  background: url('/images/icon_download.png') no-repeat 0% 90%;
 }
 
 .zip_download_link {
@@ -327,7 +362,7 @@ div.transbox h2 {
   height:70px;
   text-indent: -5000px;
   overflow: hidden;
-  background: url(../images/sprite_download.png) no-repeat bottom left;
+  background: url(/images/sprite_download.png) no-repeat bottom left;
 }
 
 .tar_download_link {
@@ -337,16 +372,16 @@ div.transbox h2 {
   height:70px;
   text-indent: -5000px;
   overflow: hidden;
-  background: url(../images/sprite_download.png) no-repeat bottom right;
+  background: url(/images/sprite_download.png) no-repeat bottom right;
   margin-left: 10px;
 }
 
 .zip_download_link:hover {
-  background: url(../images/sprite_download.png) no-repeat top left;
+  background: url(/images/sprite_download.png) no-repeat top left;
 }
 
 .tar_download_link:hover {
-  background: url(../images/sprite_download.png) no-repeat top right;
+  background: url(/images/sprite_download.png) no-repeat top right;
 }
 
 #main_content_wrap {
