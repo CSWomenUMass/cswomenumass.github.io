@@ -8,6 +8,23 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    #project_tagline {
+      text-align: right;
+      color: #fff;
+      font-size: 24px;
+      font-weight: 300;
+      background: none;
+      margin: 0 0 0 0;
+
+      @include media-query($header-wrap) {
+        font-size: 20px;
+        margin: 10 10 10 10;
+      }
+      @include media-query($on-palm) {
+        visibility: hidden;
+      }
+    }
 }
 
 .site-title {
