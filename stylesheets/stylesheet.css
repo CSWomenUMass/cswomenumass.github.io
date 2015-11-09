@@ -71,12 +71,12 @@ footer p {
 
 a:hover, a:focus {text-decoration: underline;}
 
-footer a, a:visited {
+footer a, footer a:visited{
   color: #F2F2F2;
   text-decoration: none;
 }
 
-footer a:hover, a:focus {
+footer a:hover, footer a:focus{
   color: #f2f2f2;
   text-decoration: underline;
 }
@@ -207,8 +207,6 @@ Full-Width Styles
 .outer {
   width: 100%;
 }
-
-
 
 /* added this for picture header */
 .picheader {
@@ -386,7 +384,7 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 32px;
+    font-size: 32px;
   }
 
   h1 {
