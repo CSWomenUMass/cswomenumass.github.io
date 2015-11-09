@@ -23,7 +23,15 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-
+/**
+ * Header stuff
+ */
+.inner {
+  position: relative;
+  max-width: $on-laptop; /* set the max width equal to the group picture's width */
+  padding: 20px 10px;
+  margin: 0 auto;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -44,7 +52,6 @@ img {
     max-width: 100%;
     vertical-align: middle;
 }
-
 
 
 /**
@@ -93,7 +100,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($brand-color, 10%);
     }
 
     &:hover {
