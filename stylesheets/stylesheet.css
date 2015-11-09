@@ -80,6 +80,11 @@ footer a:visited {
   color: #f2f2f2;
 }
 
+footer a:hover, a:focus {
+  color: #f2f2f2;
+  text-decoration: underline;
+}
+
 em {
   font-style: italic;
 }
