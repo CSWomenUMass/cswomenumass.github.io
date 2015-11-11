@@ -29,6 +29,9 @@ authors:
   strubell:
    display_name: Emma Strubell
    web: http://cics.umass.edu/~strubell
+  sofya:
+    display_name: Sofya Vorotnikova
+    web: http://cics.umass.edu/~svorotni
 
 # Recognized pages
 navigation:
