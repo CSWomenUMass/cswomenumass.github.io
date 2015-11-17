@@ -40,6 +40,7 @@ permalink: resources.html
 # Outreach
 
 *    [MAGIC](http://www.getmagic.org/) is a program for remotely mentoring teenaged girls in STEM fields. In order to become a mentor, you must currently be a women working in a STEM field and must undergo mentor training. The commitment is approximately 2 hours per week.
+* [Tech Foundry](http://thetechfoundry.org) is an educational non-profit based in Springfield that helps high school- and community college-educated locals find job placements in Springfield's tech sector. Their training program is run by volunteers (which could be you!).
 
 # General UMass & Grad Student Resources
 
