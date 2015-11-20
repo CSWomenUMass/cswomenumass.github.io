@@ -31,14 +31,10 @@
       .rwd-break { display: none; }
 
       @include media-query($header-wrap) {
-        .rwd-break { 
-          //display: block;
-        }
         h1{
           font-size: 60px;
         }
         text-align: left;
-        //line-height: .78;
         width: $header-wrap;
         font-size: 20px;
         margin: 10 10 10 10;
@@ -49,6 +45,8 @@
         }
         h1{
           font-size: 75px;
+          padding-top: 50px;
+
         }
         text-align: left;
         line-height: .78;
