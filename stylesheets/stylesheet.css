@@ -274,13 +274,11 @@ div.transbox {
   font-weight: normal;
   bottom: 0px;
   left: 0px;
-  /*top:168px;*/
-  line-height: .73;
+  /*line-height: .73;*/
   font-family: 'Roboto', Calibri, Helvetica, Arial, sans-serif;
   font-size: 75px;
   color: #f2f2f2;
   width: 900px;
-  /*height: 82px;*/
   margin: 0 0 0 0;
   padding: 0 0 0 0;
 }
@@ -292,17 +290,17 @@ div.headerwords {
   background-position: center;
   margin-left: auto;
   margin-right: auto
-  display:block;
+  display:inline;
   width: 100%;
-      margin: 30px;
-    background-color: #ffffff;
-    opacity: 0.7;
-    filter: alpha(opacity=60);
-    max-width: 800px;
-    color: #373737;
-    margin-left: auto;
-    margin-right: auto;
-    display:block;
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.7;
+  filter: alpha(opacity=60);
+  max-width: 800px;
+  color: #373737;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
 }
 
 .thumbnail {
@@ -331,9 +329,6 @@ div.headerwords {
     border: 1px solid;
 }
 
-#header_wrap {
-  padding: 20px 10px;
-}
 /* --- */
 
 #downloads {
@@ -400,11 +395,6 @@ Small Device Styles
 
   #downloads {
     display: none;
-  }
-
-  .inner {
-    min-width: 320px;
-    max-width: 480px;
   }
 
   #project_title {
