@@ -5,6 +5,7 @@ by Jason Costello, @jsncostello
 
 @import url(normalize.css);
 @import url(pygment_trac.css);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
 
 /*******************************************************************************
 Theme Styles
@@ -19,8 +20,9 @@ Theme Styles
 body {
   color:#373737;
   background: #212121;
-  font-size: 18px;
-  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  /*font-weight: 300;*/
+  /*font-size: 18px;*/
+  /*font-family: 'Roboto', Calibri, Helvetica, Arial, sans-serif;*/
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -95,12 +97,6 @@ img {
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
-/*  border: none;
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;*/
 }
 
 p img {
@@ -209,7 +205,7 @@ Full-Width Styles
 }
 
 /* added this for picture header */
-.picheader {
+.picheaderwords {
   position: relative;
   min-height: 100%;
   /*padding: 20px 10px;*/
@@ -221,16 +217,74 @@ Full-Width Styles
   background-size: auto;
 }
 
-.picheaderwords {
-  /*position: absolute;*/
-  width: 100%;
-  height: 100%;
+.picheader {
+  position: absolute;
+  width: auto;
+  height: auto;
   min-height: 100%;
   padding: 0px 0px 0px 0px;
   top: 0;
   left: 0;
-  background-image: url(/images/cs-women-words.png);
+  background-image: url(/images/group.jpg);
 }
+
+.headerpic {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  padding: 0px 0px 0px 0px;
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #000000;
+  opacity: 0.7;
+  filter: alpha(opacity=60);
+  max-width: 800px;
+  color: #373737;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
+
+/**/
+
+.header-text {
+  background-image: url(/images/group.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  background-size: auto;
+  width: 900px;
+  height: 250px;
+  /*margin: 0px 0 0 0px;*/
+  padding: 0 0 0 0;
+  position: relative;
+  float: left;
+}
+
+.header-text h1{
+  background: 
+    linear-gradient(
+      rgba(33, 33, 33, 0.7),
+      rgba(33, 33, 33, 0.7)
+    );
+  position: absolute;
+  font-weight: normal;
+  bottom: 0px;
+  left: 0px;
+  /*top:168px;*/
+  line-height: .73;
+  font-family: 'Roboto', Calibri, Helvetica, Arial, sans-serif;
+  font-size: 75px;
+  color: #f2f2f2;
+  width: 900px;
+  /*height: 82px;*/
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+/**/
 
 div.headerwords {
   background-image: url(/images/cs-women-words.jpg);
@@ -276,41 +330,11 @@ div.headerwords {
     margin: 10px 10px 10px 10px;
     border: 1px solid;
 }
-/* --- */
-
-#forkme_banner {
-  display: block;
-  position: absolute;
-  top:0;
-  right: 10px;
-  z-index: 10;
-  padding: 10px 50px 10px 10px;
-  color: #fff;
-  background: url('/images/blacktocat.png') #0090ff no-repeat 95% 50%;
-  font-weight: 700;
-  box-shadow: 0 0 10px rgba(0,0,0,.5);
-  border-bottom-left-radius: 2px;
-  border-bottom-right-radius: 2px;
-}
 
 #header_wrap {
-  background: #212121;
-  height: 325px;
+  padding: 20px 10px;
 }
-
-#header_wrap .inner {
-  padding: 50px 10px 30px 10px;
-  /*padding: 0px 0px 0px 0px;*/
-
-}
-
-/*#project_title {
-  margin: 0;
-  color: #fff;
-  font-size: 42px;
-  font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
-}*/
+/* --- */
 
 #downloads {
   position: absolute;
