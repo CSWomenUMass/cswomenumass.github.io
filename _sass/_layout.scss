@@ -25,6 +25,34 @@
         visibility: hidden;
       }
     }
+
+    .header-text {
+      line-height: .73;
+      .rwd-break { display: none; }
+
+      @include media-query($header-wrap) {
+        h1{
+          font-size: 60px;
+        }
+        text-align: left;
+        width: $header-wrap;
+        font-size: 20px;
+        margin: 10 10 10 10;
+      }
+      @include media-query($on-palm) {
+        .rwd-break { 
+          display: block;
+        }
+        h1{
+          font-size: 75px;
+          padding-top: 50px;
+
+        }
+        text-align: left;
+        line-height: .78;
+        width: $on-palm
+      }
+    }
 }
 
 .site-title {
@@ -43,7 +71,6 @@
 .site-nav {
     float: right;
     line-height: 50px;
-    margin-top: 10px;
 
     .menu-icon {
         display: none;
@@ -67,14 +94,13 @@
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
-
         .menu-icon {
             display: block;
             float: right;
             width: 36px;
             height: 26px;
             line-height: 0;
-            padding-top: 10px;
+            padding-top: 6px;
             text-align: center;
 
             > svg {
@@ -124,6 +150,7 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    padding: 0 0 0 0;
 }
 
 .footer-col-wrapper {
@@ -181,6 +208,7 @@
  * Page content
  */
 .page-content {
+height: auto;
     padding: $spacing-unit 0;
 }
 
