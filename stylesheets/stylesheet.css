@@ -149,6 +149,8 @@ blockquote {
 ul, ol, dl {
   margin: 0 0 15px 0;
   padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
 }
 
 dl dt {
