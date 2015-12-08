@@ -28,7 +28,7 @@
       <div class="trigger">
       	{% assign url = page.url|remove:'index.html' %}
       	{% for link in site.navigation %}
-        	{% if url == link.url or page.url == link.url %}
+          {% if url == link.url or page.url == link.url or (url contains 'page' and link.text == 'Blog') %}
         	<a class="page-link" style="font-weight: bold;" href="{{ link.url | prepend: site.baseurl }}">{{ link.text }}</a>
         	{% else %}
         	<a class="page-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.text }}</a>
