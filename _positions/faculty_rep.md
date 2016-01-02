@@ -2,7 +2,7 @@
 layout: position
 title: Faculty Representative
 pos_id: faculty_rep
-available: true
+available: false
 permalink: faculty_rep.html
 eligibility:
 - grad
