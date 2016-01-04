@@ -14,7 +14,8 @@ _For applications requiring you specify your status in the program, please inclu
 {% if pos.available %}
 <li class="post">
 <a class="post-title" href="#" onclick="toggle_and_align({{ pos.pos_id }});">{{ pos.title }}</a>
-	<span style="color:red; weight:bold">&nbsp;~Available NOW~</span>
+	<!-- <span style="color:red; weight:bold">&nbsp;~Available NOW~</span> -->
+	&nbsp;&nbsp;<span class="label label-warning" style="font-size:10pt; display:inline-block; vertical-align:middle; margin-bottom:10px;">Available Now</span>
 	<div class="position" id="{{ pos.pos_id }}" style="display:none">
 	<p>{{ pos.content }}</p>
 	</div>
