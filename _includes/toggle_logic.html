@@ -1,0 +1,9 @@
+<script text="javascript">
+    var toggle_and_align = function (id) {
+	var a = $(id);
+	a.toggle();
+	$("html, body").animate({
+	    scrollTop: a.offset().top
+	}, 1000);
+    }
+</script>
