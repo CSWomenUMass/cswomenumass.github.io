@@ -2,7 +2,7 @@
 layout: position
 title: Undergraduate Co-Chair
 pos_id: ugrad_cochair
-available: true
+available: false
 permalink: ugrad_cochair.html
 eligibility:
 - ugrad

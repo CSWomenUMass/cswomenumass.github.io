@@ -9,6 +9,9 @@ github_username: cswomenumass
 grad_cochairs: "Emma Tosch, Emma Strubell"
 ugrad_cochairs: "Cassian Corey, Supriya Kankure"
 
+gems:
+  - jekyll-mentions
+
 # Build settings
 markdown: kramdown
 paginate: 5

@@ -12,7 +12,7 @@ eligibility:
 - staff
 ---
 
-Do you have an interest in art and care about the visual representation of information? Are you a whiz at photoshop and css, or are you intersted in building these skills?  We are looking for someone to fulfill the role of _graphic designer_ for CS Women.
+Do you have an interest in art and care about the visual representation of information? Are you a whiz at Photoshop and css, or are you interested in building these skills?  We are looking for someone to fulfill the role of _graphic designer_ for CS Women.
 
 # Responsibilities
 
@@ -28,10 +28,10 @@ Co-chairs select by consensus from the pool of applications submitted. To apply 
 * Any links to portfolio work.
 
 # Term Length
-Term length is one semester and is renewable without re-application, pending approval of the co-chairs.
+Term length is one semester and is renewable without re-application, pending approval of the Co-chairs.
 
-# Estimated Time Committment
+# Estimated Time Commitment
 Required work for this position should average out to no more than one hour per week if the individual is already proficient in the tools. 
 
 # Additional Eligibility Notes and Requirements
-This position is open to all CS Women members. Individuals who are not female-identified, but who have an interst in CS Women may also apply. _We especially encourage undergraduates to apply for this position_. 
+This position is open to all CS Women members. Individuals who are not female-identified, but who have an interest in CS Women may also apply. _We especially encourage undergraduates to apply for this position_. 
