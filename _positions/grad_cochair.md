@@ -37,5 +37,5 @@ Graduate Co-chairs each serve one term corresponding to one calendar year. Terms
 CS Women Co-chairs can be a significant time commitment. Other departmental service is highly discouraged during Co-chair tenure. Expect to spend 5-10/hrs per week on CS Women responsibilities. Expect to spend fewer hours when non-essential positions are filled.
 
 # Additional Eligibility Notes and Requirements
-Graduate Co-chairs must be enrolled in a graduate degree program in CICS, be in good academic standing, have attended at least three (3) CS Women sponsored events, and must have either (a) held an assistantship for two semesters or (b) have completed 12 course credits applied to the graduate degree. 
+Graduate Co-chairs must be enrolled in a graduate degree program in CICS, be in good academic standing, and have attended at least three (3) CS Women sponsored events.
 
