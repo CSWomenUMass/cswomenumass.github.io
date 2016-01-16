@@ -2,7 +2,7 @@
 layout: position
 title: Public Relations Chair
 pos_id: pr_chair
-available: true
+available: false
 permalink: public_relations.html
 eligibility:
 - grad
