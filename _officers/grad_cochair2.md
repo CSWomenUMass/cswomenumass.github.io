@@ -9,4 +9,9 @@ program: PhD
 labname: CIIR
 labpage: http://ciir.cs.umass.edu
 ---
-Hymenaeos curae; diam. Justo tellus magnis eget nonummy lacinia posuere inceptos varius leo ullamcorper dui integer vestibulum semper venenatis imperdiet tempus nullam adipiscing nullam bibendum. Dui ridiculus gravida laoreet rutrum. Est dolor, at. Parturient ornare venenatis consequat metus cubilia aptent velit nisi velit maecenas placerat taciti accumsan Rhoncus hac dignissim ridiculus sed a aptent semper accumsan fames per sodales. Vitae fames auctor dolor pharetra imperdiet mus. Elit sociosqu ultricies ante lacus condimentum risus odio ipsum lorem velit lacinia fermentum turpis Lacus curae; feugiat suspendisse id euismod tristique auctor convallis turpis tortor pretium adipiscing dis turpis Taciti. Fusce porttitor commodo ipsum.
+
+John Foley is a fourth-year PhD student advised by [James Allan](http://cics.umass.edu/~allan) in the [Center for Intelligent Information Retrieval](http://ciir.cs.umass.edu). His [current research](http://cs.umass.edu/~jfoley) focuses on making search an effective and efficient tool for textual analysis and data science.
+
+Before beginning as a co-chair in Spring 2016, he helped to organize the technical workshop series. He is the current instructor for CS197U, an introductory unix course for undergraduate majors.
+
+He received his Bachelor of Science in Computer Engineering from UMass Lowell in 2012. He plays saxophones of all shapes and sizes as part of the Time Machine and Silvertones dance-bands at the premiere Senior Centers of the greater Lowell area.
