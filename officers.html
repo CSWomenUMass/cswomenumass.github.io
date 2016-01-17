@@ -6,11 +6,14 @@ title: Officers
 
 <div class="container-fluid">
 {% for officer in site.officers %}
+{% if officer.name %}
 {% cycle 'add row' : '<div class="row">', nil %}
     <div class="col-md-6">
+      {% if officer.thumbnail %}
           <img alt="{{ officer.name }}"
                src="{{ officer.thumbnail }}"
                style="float:left; width:180px; height:180px; border:solid; margin: 0 5px 0 0;" />
+      {% endif %}
       <ul style="list-style-type:none; width:100%">
         <li><b><a href="{{ officer.webpage }}">{{ officer.name }}</a></b></li>
         <li><b>{{ officer.title }}</b></li>
@@ -23,6 +26,7 @@ title: Officers
         </p>
     </div>
   {% cycle 'end row' : nil, '</div>' %}
+{% endif %}
 {% endfor %}
 {% cycle 'end row' : nil, '</div>' %}
 </div>

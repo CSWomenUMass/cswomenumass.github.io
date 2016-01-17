@@ -8,6 +8,7 @@ year: 4th
 program: PhD
 labname: CIIR
 labpage: http://ciir.cs.umass.edu
+thumbnail: images/jfoley.jpg
 ---
 
 John Foley is a fourth-year PhD student advised by [James Allan](http://cics.umass.edu/~allan) in the [Center for Intelligent Information Retrieval](http://ciir.cs.umass.edu). His [current research](http://cs.umass.edu/~jfoley) focuses on making search an effective and efficient tool for textual analysis and data science.
