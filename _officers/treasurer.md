@@ -7,7 +7,7 @@ email: etosch@cs.umass.edu
 year: 5th
 program: PhD
 labname: PLASMA
-labpage: http://www.plasma.cs.umass.edu
+labpage: http://plasma.cs.umass.edu
 thumbnail: images/tosch.jpg
 ---
 I am a PhD candidate and former CS Women co-chair whose research concentrates on understanding the abstractions necessary to build programming languages and tools for data scientists. My undergraduate degree is in English Literature, from Wellesley College. For a longer bio, check out [my webpage](http://etosch.github.io/bio.html).
