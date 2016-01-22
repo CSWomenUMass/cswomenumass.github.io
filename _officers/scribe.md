@@ -2,12 +2,14 @@
 layout: default
 title: Scribe
 name: "Sofya Vorotnikova"
-webpage: 
-email: 
-year: 1st
-program: PhD
+webpage: https://people.cs.umass.edu/~svorotni/
+email: svorotni@umass.edu
+year: 3rd
+program: MS/PhD
 labname: Theory Group
-labpage: 
-thumbnail: 
+labpage: http://people.cs.umass.edu/~immerman/theoryOfComputation.html
+thumbnail:
 ---
-Hymenaeos curae; diam. Justo tellus magnis eget nonummy lacinia posuere inceptos varius leo ullamcorper dui integer vestibulum semper venenatis imperdiet tempus nullam adipiscing nullam bibendum. Dui ridiculus gravida laoreet rutrum. Est dolor, at. Parturient ornare venenatis consequat metus cubilia aptent velit nisi velit maecenas placerat taciti accumsan Rhoncus hac dignissim ridiculus sed a aptent semper accumsan fames per sodales. Vitae fames auctor dolor pharetra imperdiet mus. Elit sociosqu ultricies ante lacus condimentum risus odio ipsum lorem velit lacinia fermentum turpis Lacus curae; feugiat suspendisse id euismod tristique auctor convallis turpis tortor pretium adipiscing dis turpis Taciti. Fusce porttitor commodo ipsum.
+I am a third year MS/PhD student working with Andrew McGregor in the Theory research group. I received my Bachelor's degree in Computer Science and Mathematics from UMass Amherst in 2014.
+
+My research interests lie in the area of design and analysis of algorithms. In particular, I am interested in processing massive graphs in small amount of time and using limited resources. Other topics I explore include graph theory, information theory, and communication complexity. For more information, go to my [website](https://people.cs.umass.edu/~svorotni/).
