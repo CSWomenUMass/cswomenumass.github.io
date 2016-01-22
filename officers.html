@@ -23,7 +23,9 @@ title: Officers
 	{% if officer.labpage %}
         <li><a href="{{ officer.labpage }}"><span class="glyphicon glyphicon-briefcase" title="work" aria-hidden="true"></span>&nbsp;{{ officer.labname }}</a></li>
 	{% endif %}
+	{% if officer.email %}
         <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>&nbsp;{{ officer.email }}</li>
+	{% endif %}
       </ul>
         <p>
 	      {{ officer.content }}
