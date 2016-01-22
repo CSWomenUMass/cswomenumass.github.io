@@ -9,7 +9,7 @@ year: 3rd
 program: MS/PhD
 labname: Theory Group
 labpage: http://people.cs.umass.edu/~immerman/theoryOfComputation.html
-thumbnail:
+thumbnail: images/sofya.jpg
 ---
 I am a third year MS/PhD student working with Andrew McGregor in the Theory research group. I received my Bachelor's degree in Computer Science and Mathematics from UMass Amherst in 2014.
 

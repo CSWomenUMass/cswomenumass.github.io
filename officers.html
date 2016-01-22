@@ -9,15 +9,13 @@ title: Officers
   {% if officer.publish and officer.name %}
   {% cycle 'add row' : '<div class="row">', nil %}
     <div class="col-md-6">
-      {% if officer.thumbnail %}
       <img alt="{{ officer.name }}"
 	   {% if officer.thumbnail %}
            src="{{ officer.thumbnail }}"
 	   {% else %}
-	   src="images/zena.jpg"
+	   src="{{ site.base_url }}/images/zena.jpg"
 	   {% endif %}
            style="float:left; width:180px; height:180px; border:solid; margin: 0 5px 0 0;" />
-      {% endif %}
       <ul style="list-style-type:none; width:100%">
         <li><b><a href="{{ officer.webpage }}">{{ officer.name }}</a></b></li>
         <li><b>{{ officer.title }}</b></li>
