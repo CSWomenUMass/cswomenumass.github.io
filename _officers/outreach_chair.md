@@ -1,4 +1,5 @@
 ---
+publish: false
 layout: default
 title: Outreach Chair
 name: "Gayane Vardoyan"

@@ -1,4 +1,5 @@
 ---
+publish: false
 layout: default
 title: Diversity Chair
 name: "Shamya Karumbaiah"

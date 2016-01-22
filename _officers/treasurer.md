@@ -1,4 +1,5 @@
 ---
+publish: true
 layout: default
 title: Treasurer
 name: "Emma Tosch"

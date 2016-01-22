@@ -1,4 +1,5 @@
 ---
+publish: true
 layout: default
 title: Graduate Co-chair
 name: "Emma Strubell"

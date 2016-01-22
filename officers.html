@@ -5,20 +5,26 @@ title: Officers
 <!-- http://stackoverflow.com/questions/2245972/modulus-or-lack-thereof-in-rubys-liquid-templating-engine -->
 
 <div class="container-fluid">
-{% for officer in site.officers %}
-{% if officer.name %}
-{% cycle 'add row' : '<div class="row">', nil %}
+  {% for officer in site.officers %}
+  {% if officer.publish and officer.name %}
+  {% cycle 'add row' : '<div class="row">', nil %}
     <div class="col-md-6">
       {% if officer.thumbnail %}
-          <img alt="{{ officer.name }}"
-               src="{{ officer.thumbnail }}"
-               style="float:left; width:180px; height:180px; border:solid; margin: 0 5px 0 0;" />
+      <img alt="{{ officer.name }}"
+	   {% if officer.thumbnail %}
+           src="{{ officer.thumbnail }}"
+	   {% else %}
+	   src="images/zena.jpg"
+	   {% endif %}
+           style="float:left; width:180px; height:180px; border:solid; margin: 0 5px 0 0;" />
       {% endif %}
       <ul style="list-style-type:none; width:100%">
         <li><b><a href="{{ officer.webpage }}">{{ officer.name }}</a></b></li>
         <li><b>{{ officer.title }}</b></li>
         <li><i>{{ officer.year }} year in the {{ officer.program }} program</i></li>
+	{% if officer.labpage %}
         <li><a href="{{ officer.labpage }}"><span class="glyphicon glyphicon-briefcase" title="work" aria-hidden="true"></span>&nbsp;{{ officer.labname }}</a></li>
+	{% endif %}
         <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>&nbsp;{{ officer.email }}</li>
       </ul>
         <p>

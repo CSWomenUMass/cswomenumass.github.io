@@ -1,4 +1,5 @@
 ---
+publish: true 
 layout: default
 title: Scribe
 name: "Sofya Vorotnikova"

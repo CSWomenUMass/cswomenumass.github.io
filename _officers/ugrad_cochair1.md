@@ -1,4 +1,5 @@
 ---
+publish: false
 layout: default
 title: Undergraduate Co-chair
 name: "Supriya Kankure"

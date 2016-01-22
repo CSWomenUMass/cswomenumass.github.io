@@ -1,4 +1,5 @@
 ---
+publish: false
 layout: default
 title: GWiS Liaison
 name: "Amee Trivedi"
