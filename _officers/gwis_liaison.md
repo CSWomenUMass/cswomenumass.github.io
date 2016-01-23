@@ -11,3 +11,9 @@ labname: Sensors
 labpage: http://sensors.cs.umass.edu/index.shtml
 ---
 
+
+I am a second-year MS/PhD student advised by Prof. Prashant Shenoy and Prof. Deepak Ganesan. In my first year I briefly worked with Prof. Emery Berger. 
+
+Apart from CSWomen I am an active member of GWIS. Also, I am the incoming Professional Development Chair of GWIS from 2016.
+
+When I am not coding/reading/sleeping; you will find me either dancing, painting, gardening or writing poetry.
