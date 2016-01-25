@@ -9,7 +9,7 @@ year: 1st
 program: MS
 labname: Center for Knowledge Communication (CKC)
 labpage: http://centerforknowledgecommunication.com
-thumbnail: images/shamya-face.jpg
+thumbnail: images/shamya_face.jpg
 ---
 Shamya is a first year graduate student at CICS. Her research interests lie in Artificial Intelligence for Education and is being advised by Prof Beverly Woolf at the CKC lab. She believes that a true success of a community is in its power of embracing diversity.
 
