@@ -6,6 +6,12 @@
     gem install jekyll
     gem install bundler
     bundle install
+    
+### Ubuntu Installation
+
+    apt-get install gem2.2
+    gem2.2 install github-pages jekyll install bundler
+    bundle install
 
 ### Dependencies
 
