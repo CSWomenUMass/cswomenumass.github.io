@@ -35,6 +35,14 @@ authors:
   sofya:
     display_name: Sofya Vorotnikova
     web: http://cics.umass.edu/~svorotni
+  jfoley:
+    display_name: John Foley
+    email: jfoley@cs.umass.edu
+    web: http://cics.umass.edu/~jfoley
+    twitter: johnfoleyiv
+    github: jjfiv
+
+
 
 # Recognized pages
 navigation:
