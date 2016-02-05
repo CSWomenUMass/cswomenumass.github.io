@@ -3,5 +3,6 @@ publish: true
 layout: default
 title: Graphic Designer
 name: "Sophia Berger"
-year: B.S.
+program: B.S.
+year: 1st
 ---

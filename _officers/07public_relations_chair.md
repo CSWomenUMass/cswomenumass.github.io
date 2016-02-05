@@ -3,6 +3,7 @@ publish: true
 layout: default
 title: Public Relations Chair
 name: "Su Lin Blodgett"
+email: blodgett@cs.umass.edu
 year: 1st
 email: blodgett@cs.umass.edu
 program: PhD
