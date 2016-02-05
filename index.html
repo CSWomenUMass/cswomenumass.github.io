@@ -24,8 +24,13 @@ title: Blog
       {% if post.thumbnail %}
         <img class="thumbnail" style='background-image: url({{ post.thumbnail }});'></img>
       {% endif %}
+      {% if post.content contains '<!--break-->' %}
+      {{ post.content | split: '<!--break-->' | first }}
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+      {% else %}
       {{ post.content | truncatewords: 100 | strip_html}}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+      {% endif %}
     </div>
     <br/><br/>
   </article>
