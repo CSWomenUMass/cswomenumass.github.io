@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WW2A
-permalink: WW2A.md
+permalink: WW2A.html
 ---
 
 # WW2A Mentorship Program
