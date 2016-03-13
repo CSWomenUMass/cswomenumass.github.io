@@ -54,12 +54,12 @@ navigation:
   url: /index.html
 - text: Events
   url: /events.html
+- text: WW2A
+  url: /WW2A.html
 - text: Resources
   url: /resources.html
 - text: Publicity
   url: /publicity.html
-- text: WW2A
-  url: /WW2A.html
 - text: Get Involved!
   url: /getinvolved.html
 
