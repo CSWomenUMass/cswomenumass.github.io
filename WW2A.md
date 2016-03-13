@@ -9,20 +9,20 @@ The first days of a graduate program can be both exciting and challenging. Succe
 This fall, CSWomen will launch a mentorship program for incoming students, where we will pair domestic and international students with a current graduate student as a mentor. 
 Following are the list of volunteering mentors:
 
-EGID, ADIN 
-ROY CHOWDHURY, ARUNI
-FREIRE, CIBELE
-SANKARANARAYANAN, SANDHYA
-MOSCOVICI, EVA
-GALHOTRA, SAINYAM
-RAMAN, GOWTHAM
-JUNG, HEE-TAE
-LALOR, JOHN
-LINGEMAN, JESSE
-NABANITA, DE
-SHENOY, MANJESHWAR
-BERNSTEIN, GARRETT
-SAISUBRAMANIAN, SANDHYA
+EGID, ADIN <br>
+ROY CHOWDHURY, ARUNI <br>
+FREIRE, CIBELE <br>
+SANKARANARAYANAN, SANDHYA <br>
+MOSCOVICI, EVA <br>
+GALHOTRA, SAINYAM <br>
+RAMAN, GOWTHAM <br>
+JUNG, HEE-TAE <br>
+LALOR, JOHN <br>
+LINGEMAN, JESSE <br>
+NABANITA, DE <br>
+SHENOY, MANJESHWAR <br>
+BERNSTEIN, GARRETT <br>
+SAISUBRAMANIAN, SANDHYA <br>
 STRUBELL, EMMA
 WANG, YUE
 
