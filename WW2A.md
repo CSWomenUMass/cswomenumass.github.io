@@ -9,21 +9,21 @@ The first days of a graduate program can be both exciting and challenging. Succe
 This fall, CSWomen will launch a mentorship program for incoming students, where we will pair domestic and international students with a current graduate student as a mentor. 
 Following are the list of volunteering mentors:
 
-EGID, ADIN <br>
-ROY CHOWDHURY, ARUNI <br>
-FREIRE, CIBELE <br>
-SANKARANARAYANAN, SANDHYA <br>
-MOSCOVICI, EVA <br>
-GALHOTRA, SAINYAM <br>
-RAMAN, GOWTHAM <br>
-JUNG, HEE-TAE <br>
-LALOR, JOHN <br>
-LINGEMAN, JESSE <br>
-NABANITA, DE <br>
-SHENOY, MANJESHWAR <br>
-BERNSTEIN, GARRETT <br>
-SAISUBRAMANIAN, SANDHYA <br>
-STRUBELL, EMMA
-WANG, YUE
+Egid, Adin <br>
+Roy Chowdhury, Aruni <br>
+Freire, Cibele <br>
+Sankaranarayanan, Sandhya <br>
+Moscovici, Eva <br>
+Galhotra, Sainyam <br>
+Raman, Gowtham <br>
+Jung, Hee-Tae <br>
+Lalor, John <br>
+Lingeman, Jesse <br>
+De, Nabanita <br>
+Shenoy, Manjeshwar <br>
+Bernstein, Garrett <br>
+Saisubramanian, Sandhya <br>
+Strubell, Emma <br>
+Wang, Yue <br>
 
 You can find more about them [here](https://www.cics.umass.edu/people/graduate-students).
