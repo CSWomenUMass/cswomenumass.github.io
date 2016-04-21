@@ -2,7 +2,7 @@
 layout: position
 title: Social Chair
 pos_id: social_chair
-available: false
+available: true
 permalink: social_chair.html
 eligibility:
 - ugrad
@@ -11,16 +11,16 @@ eligibility:
 ---
 
 # Responsibilities
-TODO
+Organize CS Women social events.
 
 # Selection
-TODO
+Volunteer basis.
 
 # Term Length
-TODO
+At least one semester.
 
-# Estimated Time Committment
-TODO
+# Estimated Time Commitment
+We would love to have at least one event per month, but it's up to you! At a very minimum the time required to organize one event per semester.
 
 # Additional Eligibility Notes and Requirements
-TODO
+None.
