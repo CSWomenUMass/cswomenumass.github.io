@@ -2,7 +2,7 @@
 layout: position
 title: Scribe
 pos_id: scribe
-available: true
+available: false
 permalink: scribe.html
 eligibility:
 - grad
