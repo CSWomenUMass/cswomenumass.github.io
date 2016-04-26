@@ -11,16 +11,16 @@ eligibility:
 ---
 
 # Responsibilities
-TODO
+Take notes during lunches and other CS Women-sponsored events, and post these notes to the blog.
 
 # Selection
-TODO
+On a volunteer basis.
 
 # Term Length
-TODO
+Minimum one semester.
 
-# Estimated Time Committment
-TODO
+# Estimated Time Commitment
+2-3 hours/month.
 
 # Additional Eligibility Notes and Requirements
-TODO
+All are welcome -- a good position for first-year students to get aquainted with their peers and the group!

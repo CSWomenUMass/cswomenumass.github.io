@@ -9,17 +9,17 @@ eligibility:
 ---
 
 # Responsibilities
-TODO
+Manage money matters, in particular GSS funding can be complicated
 
 # Selection
 TODO
 
 # Term Length
-TODO
+Two semesters.
 
-# Estimated Time Committment
+# Estimated Time Commitment
 TODO
 
 # Additional Eligibility Notes and Requirements
-TODO
+Must be a grad student due to GSS funding restrictions, and must attend a GSO Finance training.
 

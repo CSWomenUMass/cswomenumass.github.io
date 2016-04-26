@@ -2,7 +2,7 @@
 layout: position
 title: Graphic Designer
 pos_id: graphic_designer
-available: true
+available: false
 permalink: graphic_designer.html
 eligibility:
 - ugrad

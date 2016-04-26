@@ -6,7 +6,11 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • <a href={{ author.web }}>{{ author.display_name }}</a>{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="post-meta">
+    {{ page.date | date: "%b %-d, %Y" }}
+    {% if page.author %} • <a href={{ author.web }}>{{ author.display_name }}</a>{% endif %}
+    {% if page.transcribed %} • Transcribed by: <a href={{ site.authors[page.transcribed].web }}>{{ site.authors[page.transcribed].display_name }}</a>{% endif %}
+    {% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
   <article class="post-content">

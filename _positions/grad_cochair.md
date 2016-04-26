@@ -2,7 +2,7 @@
 layout: position
 title: Graduate Co-Chair
 pos_id: grad_cochair
-available: false
+available: true
 permalink: grad_cochair.html
 eligibility:
 - grad
@@ -21,14 +21,14 @@ The responsibilities of the Co-chairs include but are not limited to:
   - Past Co-chairs have received tutoring requests from UMass undergraduates, 5-college students, and individuals who are not members of the local academic community. Co-chairs are under no obligation to tutor students; however, they may do so if they choose.
   - Conflicts with a student's advisor. The Co-chairs should connect the student with the current Graduate Employee Organization (GEO) stewards and/or the Graduate Program Director (GPD).
   - Co-chairs may be asked to advise or advocate on behalf of women's issues in CICS. Co-chairs should consult with the elected [Faculty Representative](#faculty_rep) and the appointed [Faculty Liaison](#faculty_liaison).
-  - Title IX questions and violations. Students who have concerns that may fall under the purview of Title IX (gender discrimination in academic environments, including sexual harassment) may reach out to Co-chairs. Co-chairs should redirect students to the [Title IX coordinator](http://www.umass.edu/titleix/title-ix-team#coordinator) when appropriate.
+  - Title IX questions and violations. Students who have concerns that may fall under the purview of Title IX (gender discrimination in academic environments, including sexual harassment) will be directed to the [Title IX coordinator](http://www.umass.edu/titleix/title-ix-team#coordinator).
   - Students may reach out to graduate Co-chairs when in need of emotional support or psychological services. As Co-chairs are not required to undergo any training for counseling, _they must encourage the student to talk to a professional_. Co-chairs should use their best judgment when determining whom to talk to for assistance.
-* __Selecting new Co-chairs and reviewing applications for other positions__. New Co-chairs are recruited and appointed by existing Co-chairs. Other positions, such as Social Media Chair, Scribe, and Social Chair are by application.
+* __Selecting new Co-chairs and reviewing applications for other positions__. New Co-chairs are often recruited and appointed by existing Co-chairs. Other positions, such as Social Media Chair, Scribe, and Social Chair are by application.
 
 * __Graduate Co-chairs should take on the responsibilities of the non-essential positions when those positions are not filled.__ These responsibilities may include web-master, social chair, social media/PR, etc.
 
 # Selection
-Interested parties should submit by email their intent to `womenchairs@cs.umass.edu`. The current Graduate Co-chairs will select from that pool. Preference will be given to graduate students who have assistantships at UMass over the summer months. Graduate Co-chairs may only serve one term.
+Interested parties should submit by email their intent to `womenchairs@cs.umass.edu`, and in the case of multiple applicants, the next co-chair will be decided by a membership vote. Graduate Co-chairs may only serve one term.
 
 # Term Length
 Graduate Co-chairs each serve one term corresponding to one calendar year. Terms begin January 15 and June 15. Unless a Co-chair resigns from their position, terms should be staggered between the two Co-chairs. A graduate student may not serve more than one term as a Co-chair.

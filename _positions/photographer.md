@@ -2,7 +2,7 @@
 layout: position
 title: Photographer
 pos_id: photographer
-available: false
+available: true
 permalink: photographer.html
 eligibility:
 - ugrad
