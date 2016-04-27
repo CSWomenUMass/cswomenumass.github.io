@@ -27,3 +27,5 @@ My final session was with A.J. Brush and Ming Lin (UNC) on building our professi
 To summarize - neatly organized, wisely picked sessions, great speakers, accessible 1:1 advising with mentors, good posters, DJ night/dancing, and of course great food ! Breaks between the sessions were well structured to make the best use of the opportunity to build mentoring relationships. I got most of the reinforcements on my research choice during these casual chats with the senior researchers. It was nice to see UMass Amherst at the forefront with Lori Clarke as a Co-Chair and the enlightening keynote by Jim Kurose.
 
 This is written solely from the perspective of a first year graduate student trying to solidify her research goals. The beauty of grad cohort is that you have a good mix of sessions to specially cater to your needs. The rule of thumb is to dump your personal devices in the room and take the utmost advantage of these two days. 
+
+![Grad Cohot](/images/gradCohort.png)
