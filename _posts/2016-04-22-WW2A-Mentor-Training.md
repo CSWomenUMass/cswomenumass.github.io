@@ -12,6 +12,8 @@ The retreat started with some breakfast and coffee at 9:30AM. The Assistant Dire
 
 Post lunch, there was an open discussion with the mentors. Since this is the first year running a mentoring program of this sort, the suggestions from the mentors were highly useful. The WW2A mentoring program committee will consider these comments in formulating the program better. 
 
+![image](/images/mentor_training.jpg "A retreat it is !" {width=200px height=200px})
+
 The mentoring program will formally begin on June 1 with the introductions of the mentor-mentee pairs. With a goal of fostering cross cultural ties, this mentoring program will embark upon a new form of mentorship. 
 
 If you are a continuing grad student and interested in mentoring the incoming students, write to us at ww2a-mentoring-program@googlegroups.com
