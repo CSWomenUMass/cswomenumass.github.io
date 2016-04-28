@@ -6,11 +6,11 @@ categories: ww2a
 author: shamya
 ---
 
-As part of the WW2A mentoring program, a mentors' retreat was held at the Willits-Halliwell conference center, Mount Holyoke college. 
+As part of the [WW2A mentoring program](http://cswomenumass.github.io/WW2A.html), a mentors' retreat was held at the [Willits-Halliwell](https://www.mtholyoke.edu/willits) conference center, Mount Holyoke college. 
 
-The retreat started with some breakfast and coffee at 9:30AM. The Assistant Director for the Center for Teaching & Faculty Development, Brian Baldi facilitated the mentor training. In the three hour session, Brian conducted different activities to emphasize on the practices towards effective mentoring. The training was highly appreciated by the participants. 
+The retreat started with some breakfast and coffee at 9:30AM. The Assistant Director for the Center for [Teaching & Faculty Development](https://www.umass.edu/ctfd/), [Brian Baldi](https://www.umass.edu/ctfd/about/baldi.shtml) facilitated the mentor training. In the three hour session, Brian conducted different activities to emphasize on the practices towards effective mentoring. The training was highly appreciated by the participants. 
 
-Post lunch, there was an open discussion with the mentors. Since this is the first year running a mentoring program of this sort, the suggestions from the mentors were highly useful. The WW2A mentoring program committee will consider these comments in formulating the program better. 
+Post lunch, there was an open discussion with the mentors - coordinated by the WW2A mentoring program committe ([Emma Strubell](http://people.cs.umass.edu/~strubell/), [John Foley](http://jjfiv.github.io) and [Shamya Karumbaiah](http://shamya.github.io)). Since this is the first year running a mentoring program of this sort, the suggestions from the mentors were highly useful. The WW2A mentoring program committee will consider these comments in formulating the program better. 
 
 ![Mentor Training](/images/mentor_training.jpg)
 
