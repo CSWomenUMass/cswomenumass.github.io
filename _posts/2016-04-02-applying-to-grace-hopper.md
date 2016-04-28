@@ -5,11 +5,14 @@ date: 2016-04-02 00:00:00
 categories: ghc
 author: shiri
 transcribed: jfoley
+thumbnail: /images/grace_hopper_navy.jpg
 ---
 
 One of our members, Shiri Dori-Hacohen, has been successful in being awarded the Grace Hopper scholarship to attend GHC multiple times in the past. As a result, she often fields questions about the admissions process. This year, she has taken the time to compile them into a list of "frequently-asked-questions" for members working on their application or attending for the first time.
 
 <!--break-->
+
+![Admiral Grace Hopper](/images/grace_hopper_navy.jpg)
 
 <div class="document-quote" markdown="1">
 On top of the GHC16 scholarship applications, there is also a call for proposals with the same deadline (March 30th). Proposals include panels, talks and posters. From my experience, people with accepted posters often have a higher chance of getting scholarships. There are technical and non-technical tracks.
