@@ -40,6 +40,7 @@ The first algorithm for language edit distance is due to Aho and Peterson (1972)
 Finding language edit distance for various grammars is a fundamental problem since it is tightly connected to a number of other problems such as matrix multiplication, finding all-pairs shortest paths in graphs, RNA folding, problems in computational linguistics, compiler optimization, etc.
 
 Since XML repairing is equivalent to the Dyck language edit distance problem, we are going to concentrate on this class of grammars and design a fast approximation algorithm. The main two results are the following:
+
 - $$O(\epsilon^{-1} \log d)$$-approximation algorithm that uses time $$O(n^{1+\epsilon} + d^2)$$ where $$d$$ is the optimal edit distance.
 - $$O(\epsilon^{-1} \log(d) \beta(n))$$-approximation algorithm that uses time $$O(n^{1+\epsilon})$$ where $$\beta(n)$$ is the approximation factor that can be achieved for string edit distance in linear time.
 
@@ -59,6 +60,7 @@ We start by assuming that the only errors in the string are deletions and presen
            delete everything on the stack
 
 This algorithm has two nice properties:
+
 - synchronization: at every step the correct move is taken with probability $$1/2$$
 - local repairability: every wrong move can be corrected by two right ones
 
@@ -71,6 +73,7 @@ To improve the approximation factor, we introduce the concept of blocks to the r
 The problem with the above algorithm is that we can make errors dividing strings into blocks and the errors propagate as the algorithm proceeds. In order to keep those errors local, we can find blocks in parallel instead of sequentially. This makes the algorithm naturally parallel and reduces the approximation factor to $$O(\log d)$$.
 
 For more information about language edit distance, check out these Barna's papers:
+
 - [The Dyck Language Edit Distance Problem in Near-linear Time](https://people.cs.umass.edu/~barna/paper/focs-full.pdf), Barna Saha. FOCS 2014 
 - [Language Edit Distance & Maximum Likelihood Parsing of Stochastic Grammars: Faster Algorithms & Connection to Fundamental Graph Problems](http://arxiv.org/abs/1411.7315), Barna Saha, FOCS 2015 
 
