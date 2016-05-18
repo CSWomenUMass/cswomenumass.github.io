@@ -9,10 +9,13 @@ thumbnail: /images/barna.jpg
 
 The last talk of the semester brought [Barna Saha](https://barnasaha.net/), an Assistant Professor at UMass Amherst College of Information and Computer Sciences. She talked about the Dyck language, the problem of language edit distance, and its relation to other problems.
 
+<!--break-->
+
 # Bio
 
 ![Barna Saha](/images/barna.jpg){:style="float: right; left-padding: 15px; max-width: 256px; border: solid;"}
 Barna Saha is an Assistant Professor in the College of Information and Computer Science at the University of Massachusetts Amherst. She received her PhD from the University of Maryland College Park, and then spent a couple of years at the AT&T Shannon Labs as a senior researcher before joining UMass Amherst in 2014. Her research interests are in algorithm design and analysis, and large scale data analytics. She particularly likes to work on problems that are tied to core applications but have the potentials to lead to beautiful theory. She is the recipient of Google Faculty Award (2016), Yahoo ACE Award (2015), Simons-Berkeley Research Fellowship (2015), NSF CRII Award (2015), Dean's Dissertation Fellowship (2011), and the best paper award and finalists for best papers at VLDB 2009 and IEEE ICDE 2012 respectively.
+
 
 # Playing with Grammars: What Have We Known So Far?
 Open and close tags that don't match are one of the largest causes of errors that prevent XML files from compiling. Since files in question are usually too large to debug manually, we need to find an automatic way to correct them. The problem is to insert/delete/substitute open and close tags to transform an erroneous document into a well-formed one. The edit distance is then the number of edits we need to perform and this is the quantity we want to minimize.
