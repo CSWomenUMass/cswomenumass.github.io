@@ -2,7 +2,7 @@
 layout: position
 title: Webmaster
 pos_id: webmaster
-available: true
+available: false
 permalink: webmaster.html
 eligibility:
 - ugrad

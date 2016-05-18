@@ -5,7 +5,7 @@ title: Diversity Chair
 name: "Shamya Karumbaiah"
 webpage: http://cics.umass.edu/~shamya
 email: shamya@cs.umass.edu
-year: 1st
+year: 2nd
 program: MS
 labname: Center for Knowledge Communication (CKC)
 labpage: http://centerforknowledgecommunication.com

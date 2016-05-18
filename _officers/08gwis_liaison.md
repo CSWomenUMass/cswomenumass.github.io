@@ -5,7 +5,7 @@ title: GWiS Liaison
 name: "Amee Trivedi"
 webpage: http://cics.umass.edu/~amee
 email: amee@cs.umass.edu
-year: 2nd
+year: 3rd
 program: PhD
 labname: Sensors
 labpage: http://sensors.cs.umass.edu/index.shtml

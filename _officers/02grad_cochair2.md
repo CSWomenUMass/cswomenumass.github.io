@@ -5,7 +5,7 @@ title: Graduate Co-chair
 name: "John Foley"
 email: jfoley@cs.umass.edu
 webpage: http://cics.umass.edu/~jfoley
-year: 4th
+year: 5th
 program: PhD
 labname: CIIR
 labpage: http://ciir.cs.umass.edu
