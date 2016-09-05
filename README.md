@@ -1,16 +1,22 @@
 # cswomenumass.github.io
 
-## Install 
+## Install  (Generic)
 
     gem install github-pages
     gem install jekyll
     gem install bundler
     bundle install
     
-### Ubuntu Installation
+### Ubuntu 14.04 Installation
 
     apt-get install gem2.2
-    gem2.2 install github-pages jekyll install bundler
+    gem2.2 install github-pages jekyll bundler
+    bundle install
+
+### Ubuntu 16.04 Installation
+
+    sudo apt-get install ruby2.3-dev build-essential
+    sudo gem install github-pages jekyll bundler
     bundle install
 
 ### Dependencies
