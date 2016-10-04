@@ -35,7 +35,7 @@ Sainyam Galhotra <br>
 Sandhya Saisubramanian <br>
 Sandhya Sankaranarayanan <br>
 Emma Strubell <br>
-Sofya Vorotnika <br>
+Sofya Vorotnikova <br>
 Yue Wang <br>
 Shahrzad Naseri <br>
 
