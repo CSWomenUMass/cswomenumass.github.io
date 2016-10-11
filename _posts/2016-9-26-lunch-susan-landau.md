@@ -45,7 +45,7 @@ catch people that were placing illegal bets.  The case went all the way to the S
 decided that the 4th amendment protects people and not places.  This case led to a federal
 surveillance law called Reasonable Expectation of Privacy (REP).  The law says that people have an
 expectation of privacy even in public areas such as a phone booth, so a warrant is necessary before
-law enforcement may do audio surveilance in these places.
+law enforcement may do audio surveillance in these places.
 
 The second case was Smith v. MD, 1979. A woman's house was robbed and following the robbery, someone (presumably the robber) called her anonymously to torment her about returning to her home. The police got the caller's phone number from the phone company and put a pen register on it in order to prove that Smith was the caller.  This case also went to the Supreme Court.  It was decided that there was no REP here, because Smith shared his phone number with the phone company and any information shared with a third party has less protection.
 
@@ -71,14 +71,14 @@ Susan and her co-authors determined in their paper that the rules from Katz and 
 * Content should be defined as "inside of package", even if it contains other packages
 
 ##Guidance for Judges
-* Ask about functionalify and form of information to be collected with each application
+* Ask about functionality and form of information to be collected with each application
 * Determine whether the DRAS goes through a third party
 * If not, is the technology capable of only collecting the DRAS?
-* If not, determine whether the overcollection involves content or non-DRAS, non-content and whether a Title 3 or Rule 41 search is needed.
+* If not, determine whether the over-collection involves content or non-DRAS, non-content and whether a Title 3 or Rule 41 search is needed.
 
 ##Guidance for Policymakers
 *The law should be solidly grounded in the reality of today's technology
 *Privacy protections should take account of the "Big Data tsunami"
 
 # Personal Talk
-Susan was trained as a theoreticain. After marrying Neel Immerman, she was part of a two-body problem. She points out that this was in a different time, when it was understood that you never admitted that you were married or part of a two-body problem when applying for jobs. During one of her first faculty jobs, she complained abut sexism from a colleague to the ambutsman. He responded by telling her that although he didn't necessarily approve of the other man's remarks, it was the his personal view and he couldn't do anything about it. Susan had her children before getting tenure and moved to Massachusetts, where she worked as research faculty at UMass. She mentioned that having senior people say that her work was good helped a lot when things were not going well. In general having senior colleagues that believed in her helped a great deal. Being able to write and speak well and having a lot of grit and determination also helped. She believes that grit really matters and that women in computer science must have a lot of grit to have made it as far as they have.  She thinks that those who finish degrees in computer science are the ones that are determined.
+Susan was trained as a theoretician. After marrying [Neil Immerman](https://people.cs.umass.edu/~immerman/), she was part of a two-body problem. She points out that this was in a different time, when it was understood that you never admitted that you were married or part of a two-body problem when applying for jobs. During one of her first faculty jobs, she reported a colleague's  sexist comments to the ombudsman, who responded by telling her that although he didn't necessarily approve of the other man's remarks, it was the his personal view and he couldn't do anything about it. Susan had her children before getting tenure and moved to Massachusetts, where she worked as research faculty at UMass. She mentioned that having senior people say that her work was good helped a lot when things were not going well. In general having senior colleagues that believed in her helped a great deal. Being able to write and speak well and having a lot of grit and determination also helped. She believes that grit really matters and that women in computer science must have a lot of grit to have made it as far as they have.  She thinks that those who finish degrees in computer science are the ones that are determined.
