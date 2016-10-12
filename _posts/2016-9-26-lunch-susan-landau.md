@@ -20,9 +20,9 @@ society and business needs for security helped win the argument for a relaxation
 export controls.  Beginning in the early 2000s, Landau was an early voice in the argument that
 law-enforcement requirements for embedding surveillance within communications infrastructures
 created long-term national-security risks.  Her position that securing private-sector telecommunications was in the national-security interest ran contrary to public thinking at the
-time and deeply influenced policy makers and scholars. Landau's book __Surveillance or Security?
-The Risks Posed by New Wiretapping Technologies__, (MIT Press) won the 2012 Surveillance Studies
-Book Prize, while __Privacy on the Line: the Politics of Wiretapping and Encryption__, co-authored
+time and deeply influenced policy makers and scholars. Landau's book [__Surveillance or Security?
+The Risks Posed by New Wiretapping Technologies__](https://mitpress.mit.edu/books/surveillance-or-security), (MIT Press) won the 2012 Surveillance Studies
+Book Prize, while [__Privacy on the Line: the Politics of Wiretapping and Encryption__](https://mitpress.mit.edu/books/privacy-line), co-authored
 with Whitfield Diffie (MIT Press, 1998), won the IEEE-USA Award for Distinguished Literary
 Contributions Furthering Public Understanding of the Profession and the McGannon Book Award for
 Social and Ethical Relevance in Communication Policy Research. Landau has testified to Congress
