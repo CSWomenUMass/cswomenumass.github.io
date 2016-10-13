@@ -5,7 +5,7 @@ title: Graduate Co-Chair
 name: "Sofya Vorotnikova"
 webpage: https://people.cs.umass.edu/~svorotni/
 email: svorotni@umass.edu
-year: 4th
+year: 3rd
 program: MS/PhD
 labname: Theory Group
 labpage: http://people.cs.umass.edu/~immerman/theoryOfComputation.html

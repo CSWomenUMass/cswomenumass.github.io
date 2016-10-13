@@ -6,8 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cics.umass.edu/~women"
 twitter_username: CSWomenUMass
 github_username: cswomenumass
-grad_cochairs: "Emma Strubell, John Foley"
-ugrad_cochairs: "Cassian Corey, Supriya Kankure"
+grad_cochairs: "Sofya Vorotnikova, John Foley"
+ugrad_cochairs: "Supriya Kankure, Diane Tam"
 
 gems:
   - jekyll-mentions
@@ -48,7 +48,11 @@ authors:
     display_name: Shamya Karumbaiah
     email: shamya@cs.umass.edu
     web: http://cics.umass.edu/~shamya
-
+  rian:
+    display_name: Rian Shambaugh
+    email: rian@cs.umass.edu
+    web: http://cics.umass.edu/~rian
+    github: rolivia
 
 
 # Recognized pages
