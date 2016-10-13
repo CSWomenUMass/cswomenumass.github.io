@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Second Lunch of the semester featuring CSWomen Co-Chair Sofya Vorotnikova"
+title: "Sofya Vorotnikova Speaks @ Second Lunch"
 date: 2016-10-12 00:00:00
 categories: lunch
 author: rian
@@ -64,8 +64,11 @@ $$G$$, assume $$match(G)\leq vc(G)\leq 2match(G)$$. $$H$$ is defined as the set 
 vertices with degree at least $$10k$$ and $$L$$ is defined as the set of **light** edges where
 the edges do not have any heavy endpoints.
 
-    $$vc(G) = |H| + vc(L)$$
-    $$match(G) = |H| + match(L)$$
+{% raw %}
+$$vc(G) = |H| + vc(L)$$
+
+$$match(G) = |H| + match(L)$$
+{% endraw %}
 
 This works, because (with constant probability) if an edge is light, it will be sampled and if a
 vertex is heavy, it's degree in the graph obtained by sampling $$\Theta(k)$$ colors is at least

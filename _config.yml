@@ -11,6 +11,7 @@ ugrad_cochairs: "Supriya Kankure, Diane Tam"
 
 gems:
   - jekyll-mentions
+  - jekyll-paginate
 
 # Build settings
 markdown: kramdown
