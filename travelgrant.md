@@ -12,9 +12,9 @@ If you are a female student at CICS and would like to attend a conference or a w
 
 Preference is given to students who have
 
-  - applied for other funding but still have some costs that need to be covered.
-  - a paper accepted to the conference/workshop of interest.
-  - not attended a conference or workshop in their field, but who are interested in research.
+* applied for other funding but still have some costs that need to be covered.
+* a paper accepted to the conference/workshop of interest.
+* not attended a conference or workshop in their field, but who are interested in research.
 
 In return we ask you to add acknowledgements of the funding sources and thank Women for UMass and CSWomen organizations in your presentation if you are giving one. You will also be required to write a short blog post about your experience at the conference/workshop that we will publish online.
 
