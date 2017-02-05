@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cics.umass.edu/~women"
 twitter_username: CSWomenUMass
 github_username: cswomenumass
-grad_cochairs: "Sofya Vorotnikova, John Foley"
+grad_cochairs: "Sofya Vorotnikova, Nidhi Mundra"
 ugrad_cochairs: "Supriya Kankure, Diane Tam"
 
 gems:
