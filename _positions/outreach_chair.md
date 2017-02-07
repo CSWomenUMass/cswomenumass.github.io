@@ -2,7 +2,7 @@
 layout: position
 title: Outreach Chair
 pos_id: outreach_chair
-available: true
+available: false
 permalink: outreach_relations.html
 eligibility:
 - grad
