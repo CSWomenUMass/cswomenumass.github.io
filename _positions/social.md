@@ -2,7 +2,7 @@
 layout: position
 title: Social Chair
 pos_id: social_chair
-available: true
+available: false
 permalink: social_chair.html
 eligibility:
 - ugrad
