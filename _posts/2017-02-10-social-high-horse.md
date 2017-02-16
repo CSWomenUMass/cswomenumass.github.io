@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSWomen Social at High Horse"
-date: 2017-02-16 00:00:00
+date: 2017-02-10 00:00:00
 categories: social
 author: sofya
 thumbnail: /images/social/high_horse1.jpg
