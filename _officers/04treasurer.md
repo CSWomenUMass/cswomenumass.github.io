@@ -5,7 +5,7 @@ title: Treasurer
 name: "Emma Strubell"
 webpage: http://cics.umass.edu/~strubell
 email: strubell@cs.umass.edu
-year: 5th
+year: 4th
 program: PhD
 labname: IESL
 labpage: http://www.iesl.cs.umass.edu
