@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 layout: default
 title: Social Committee
 name: "Amee Trivedi"
