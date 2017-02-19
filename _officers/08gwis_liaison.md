@@ -1,7 +1,7 @@
 ---
 publish: true
 layout: default
-title: GWiS Liaison
+title: GWiS Liaison and Social Committee
 name: "Amee Trivedi"
 webpage: http://cics.umass.edu/~amee
 email: amee@cs.umass.edu
