@@ -1,7 +1,7 @@
 ---
 publish: true
 layout: default
-title: MS Co-chair
+title: MS Co-Chair
 name: "Eva Moscovici"
 email: emoscovici@cs.umass.edu 
 webpage: 
