@@ -7,7 +7,8 @@ email: kkeith@cs.umass.edu
 webpage: https://sites.google.com/site/kakeithcs/
 year: 1st
 program: MS/PhD
-labname: 
-labpage: 
-thumbnail: images/officer-photo-stub.png
+labname: SLANG
+labpage: http://slanglab.cs.umass.edu/
+thumbnail: images/katie.jpg
 ---
+Katherine (Katie) Keith is a first-year MS/PhD researching NLP and computational social science under Dr. Brendan O'Connor.
