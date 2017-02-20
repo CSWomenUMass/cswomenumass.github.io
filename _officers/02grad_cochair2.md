@@ -1,7 +1,7 @@
 ---
 publish: true
 layout: default
-title: Graduate Co-chair
+title: Graduate Co-Chair
 name: "Nidhi Mundra"
 email: nmundra@cs.umass.edu 
 webpage: 
