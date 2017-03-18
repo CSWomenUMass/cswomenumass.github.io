@@ -4,7 +4,7 @@ title: "Rachee Singh Travels to Google Networking Research Summit"
 date: 2017-03-18 00:00:00
 categories: travelgrant
 author: sofya
-thumbnail: /images/google-summit.jpg
+thumbnail: /images/google-summit.png
 ---
 
 Thanks to the support of [Women for UMass Amherst](http://www.umass.edu/wfum/), we have awarded out first [Travel Grant](http://cswomenumass.github.io/travelgrant.html)! Rachee Singh received $500 to cover the costs of her visit to Google Networking Research Summit. Below is her impression of the summit.
