@@ -17,4 +17,4 @@ In the next two days, the essence of the bleeding edge of networking research wa
 The coffee breaks offered a great opportunity to meet Googlers who gave us a peek into the kind of problems they work on. I found this perspective unique and thought provoking. Also, being fairly new to the networking research community, I got the chance to interact with many PhD students from other institutions. Google had also organized a poster session for PhD students. I presented our work on PathCache, a network path prediction toolkit. People had great suggestions and feedback for us that we are actively working on.<br/><br/>
 The event was enjoyable and beneficial to me and I hope Google continues to organize it. I am also thankful to [Women for UMass Amherst](http://www.umass.edu/wfum/) and [CSWomen group](http://cswomenumass.github.io/index.html) for providing their generous financial support. It helped cover some of the travel expenses to attend this wonderful event!
 
-![Google Summit](/images/google-summit.png){:style="margin: 15px 10px 10px 0; height=500px"}
+![Google Summit](/images/google-summit.png){:style="margin: 15px 10px 10px 0"}
