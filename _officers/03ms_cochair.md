@@ -9,5 +9,5 @@ year: 2nd
 program: MS
 labname: Genetic programming
 labpage: 
-thumbnail: images/officer-photo-stub.png
+thumbnail: images/eva.png
 ---
