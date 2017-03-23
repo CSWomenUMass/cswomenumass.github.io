@@ -4,10 +4,10 @@ layout: default
 title: MS Co-Chair
 name: "Eva Moscovici"
 email: emoscovici@cs.umass.edu 
-webpage: 
+webpage: https://www.linkedin.com/in/eva-moscovici/
 year: 2nd
 program: MS
-labname: 
+labname: Genetic programming
 labpage: 
 thumbnail: images/officer-photo-stub.png
 ---
