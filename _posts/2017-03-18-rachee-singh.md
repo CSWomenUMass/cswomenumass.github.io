@@ -4,7 +4,6 @@ title: "Rachee Singh Travels to Google Networking Research Summit"
 date: 2017-03-18 00:00:00
 categories: travelgrant
 author: sofya
-thumbnail: /images/travelgrant/google-summit.png
 ---
 
 ![WFUM logo](/images/WFUMlogo.png){:style="float: left; margin:0 15px 10px 0; width: 300px; "}
