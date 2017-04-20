@@ -4,7 +4,6 @@ title: "Amanda Doucette Travels to the Cognitive Modeling and Computational Ling
 date: 2017-04-20 00:00:00
 categories: travelgrant
 author: sofya
-thumbnail: /images/travelgrant/paint_night2.jpg
 ---
 
 ![WFUM logo](/images/WFUMlogo.png){:style="float: left; margin:0 15px 10px 0; width: 300px; "}
