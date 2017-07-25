@@ -12,7 +12,9 @@ In June 2017, I had the opportunity to present my paper at the International Con
 
 The conference, including the workshops, was a 5-day event and the attendees were a mix of students, professors, and researchers from the industry. It turned out to be a wonderful experience for me to meet my research community from around the world and share ideas. I was also able to attend several talks and workshop sessions that were part of the conference. It was interesting to hear from many different perspectives and I was able to learn a lot from the speakers at the sessions of workshop and the conference, and from conversations with the other attendees. 
 
-Almost everyday, there were panel discussions towards the end of the day. The topics for the panel discussion were very interesting and were centered around the various perspectives of future research directions in AI Planning. The panelists were a mix of renowned professors, sharing their views from different an academia perspective, and researchers from the industry, sharing their views from an industry perspective. 
+Almost everyday, there were panel discussions towards the end of the day. The topics for the panel discussion were very interesting and were centered around the various perspectives of future research directions in AI Planning. The panelists were a mix of renowned professors, sharing their views from different an academia perspective, and researchers from the industry, sharing their views from an industry perspective. Here's a picture of the panel.
+
+![Sandhya's Experience 1](/images/travelgrant/panel_ICAPS.jpg)
 
 The coffee breaks were ideal for casual discussions among the attendees. My interaction with few professors and fellow PhD students during the coffee breaks helped me gain some valuable insights regarding future directions of my current research. Their feedback was very useful and their enthusiasm for my work increased my confidence!
 
