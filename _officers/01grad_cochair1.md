@@ -9,5 +9,5 @@ year: 1st
 program: MS
 labname: 
 labpage: 
-thumbnail: 
+thumbnail: images/officer-photo-stub.png
 ---
