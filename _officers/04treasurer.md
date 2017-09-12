@@ -1,7 +1,7 @@
 ---
 publish: true 
 layout: default
-title: Graduate Co-Chair
+title: Treasurer
 name: "Rakshita Bhat"
 webpage: 
 email: rbhat@cs.umass.edu
