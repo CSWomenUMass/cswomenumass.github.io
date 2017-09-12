@@ -1,18 +1,16 @@
 ---
-publish: true
+publish: true 
 layout: default
-title: Treasurer
-name: "Emma Strubell"
-webpage: http://cics.umass.edu/~strubell
-email: strubell@cs.umass.edu
-year: 4th
-program: PhD
+title: Graduate Co-Chair
+name: "Rakshita Bhat"
+webpage: 
+email: rbhat@cs.umass.edu
+year: 2nd year
+program: MS
 labname: IESL
-labpage: http://www.iesl.cs.umass.edu
-thumbnail: images/strubell-face.jpg
+labpage: http://www.iesl.cs.umass.edu/
+thumbnail: images/rakshita.jpg
 ---
-I am a fourth-year PhD student advised by Andrew McCallum. In my first year I briefly worked with Hava Siegelmann. I'm interested in developing new machine learning techniques to facilitate fast and accurate natural language processing of text. Previously, I earned a B.S. in Computer Science from the University of Maine with a minor in math, where I authored my most-cited work, a [tutorial](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf) for undergraduates on quantum algorithms. My programming language of choice is Scala and my Linux distribution of choice is Gentoo. For more info check out my [personal website](http://cics.umass.edu/~strubell).
-
-As co-chair I helped organize the Technical Workshop Series and am excited to further develop the success and reputation of CS Women. I have also served the department as a GEO steward and Graduate Student Senate representative, and plan to run for Grad Rep if I ever complete my synthesis project :)
-
-In my free time I enjoy backpacking and nurturing various pet projects outside my research, including fermentation (saurkraut, kombucha, kimchi, cider) and [Plant Jones](https://github.com/patverga/plant_jones).
+I am a second year Master student interested in Machine Learning, Natural Language Processing and Data Mining. I work as a Graduate Research Assistant in the IESL lab. Previously, I earned a B.E degree in Computer Science from PES University, Bangalore, India.
+In my free time I enjoy backpacking, hiking and cooking :D
+Feel free to contact me at rbhat@cs.umass.edu.
