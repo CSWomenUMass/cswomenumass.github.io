@@ -9,7 +9,7 @@ year: 1st
 program: MS
 labname: 
 labpage: 
-thumbnail: images/manpreet.jpg
+thumbnail: images/officer-photo-stub.png
 ---
 I am a first year masters student at CICS UMass. I like working on projects in Machine Learning and Deep learning. As a co-chair, I want to highlight the groundbreaking work that several women in computing have done and continue to do. 
 
