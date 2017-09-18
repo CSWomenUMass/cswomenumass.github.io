@@ -1,7 +1,7 @@
 ---
 publish: true
 layout: default
-title: MS Co-Chair
+title: MS Chair
 name: "Neha Yadav"
 email: nyadav@cs.umass.edu
 webpage: https://www.linkedin.com/in/neha17/
