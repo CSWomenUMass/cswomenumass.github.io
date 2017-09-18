@@ -1,7 +1,7 @@
 ---
 publish: true
 layout: default
-title: Social Chair
+title: Social Co-Chair
 name: "Rian Shambaugh"
 email: rian@cs.umass.edu
 webpage: https://people.cs.umass.edu/~rian/
