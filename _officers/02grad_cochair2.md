@@ -9,7 +9,7 @@ year: 1st
 program: MS
 labname: 
 labpage: 
-thumbnail: images/officer-photo-stub.png
+thumbnail: images/nidhi.jpg
 ---
 I am a first-year MS student, mainly interested in Distributed Systems, Cloud Computing and Computer Networks. Previously, I earned a B.Tech in Computer Science from National Institute of Technology, Warangal, India. 
 
