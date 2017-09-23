@@ -3,6 +3,7 @@ publish: true
 layout: default
 title: Social Chair
 name: "Pegah Taheri"
+webpage: https://www.linkedin.com/in/pegah-taheri-36a31072/
 program: M.S.
 year: 2nd
 labname: BiNDS
