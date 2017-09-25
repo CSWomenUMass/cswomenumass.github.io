@@ -2,7 +2,7 @@
 layout: position
 title:  GWiS Liaison 
 pos_id: pr_chair
-available: false
+available: true
 permalink: gwis_liaison.html
 eligibility:
 - grad
