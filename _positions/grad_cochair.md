@@ -2,7 +2,7 @@
 layout: position
 title: Graduate Co-Chair
 pos_id: grad_cochair
-available: true
+available: false
 permalink: grad_cochair.html
 eligibility:
 - grad
