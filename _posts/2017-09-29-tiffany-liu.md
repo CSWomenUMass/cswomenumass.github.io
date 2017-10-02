@@ -5,7 +5,7 @@ date: 2017-09-29 00:00:00
 categories: travelgrant
 ---
 <br/><br/>
->As my summer of 2017 came to a close, I had the fortune of attending a week-long summer school program on Cognitive Architectures at Universität Bielefeld Cluster of Excellence Cognitive Interaction Technology (CITEC) in Germany.
+>As my summer of 2017 came to a close, I had the fortune of attending a [week-long summer school program on Cognitive Architectures](https://cit-ec.de/en/graduate-school/summerschool) at Universität Bielefeld Cluster of Excellence Cognitive Interaction Technology ([CITEC](https://www.cit-ec.de/en)) in Germany.
 
 ![Liu-Cognitive Architecture Banner](/images/travelgrant/liu-CITEC_SS_Cognitive_Architectures_Banner.jpg){:style="margin: 15px 10px 10px 0; height=600px; width=600px"}<br/><br/>
 Days were filled with keynote talks on cognitive architectures geared towards applications in robotics from senior researchers who are well-known in their research areas. In the afternoon, we split into subgroups where each group was assigned a robotic platform and a task to complete by the end of the week. I was assigned to Pepper, a humanoid robot from SoftBank Robotics, with the task of having it learn how to play the cup-and-ball game. While the task was rather disconnected from the cognitive architecture theme we saw during the keynote talks, it was still fun and interesting to work with a different robotic platform than what I normally use in my lab.
