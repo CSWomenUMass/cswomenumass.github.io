@@ -10,5 +10,3 @@ program: MS
 labname: 
 labpage: 
 thumbnail: images/pallavi.jpg
----
-I am a second year masters student at CICS UMass. 
