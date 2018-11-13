@@ -9,7 +9,7 @@ year: 2nd
 program: MS
 labname: 
 labpage: 
-thumbnail: images/Sneha.jpg
+thumbnail: images/sneha.jpg
 ---
 
 
