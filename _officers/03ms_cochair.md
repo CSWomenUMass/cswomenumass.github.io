@@ -2,9 +2,9 @@
 publish: true
 layout: default
 title: MS Chair
-name: "Neha Yadav"
+name: "Sneha Bhattacharya"
 email: 	snehabhattac@cs.umass.edu
-webpage: Sneha Bhattacharya
+webpage: 
 year: 2nd
 program: MS
 labname: 
