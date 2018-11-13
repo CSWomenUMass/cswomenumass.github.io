@@ -2,14 +2,13 @@
 publish: true 
 layout: default
 title: Graduate Co-Chair
-name: "Manpreet Kaur"
+name: "Pallavi Patil"
 webpage: 
-email: manpreetkaur@cs.umass.edu
-year: 1st
-program: MS
+email: ppatil@cs.umass.edu
+year: 2ndprogram: MS
 labname: 
 labpage: 
-thumbnail: images/manpreet.jpg
+thumbnail: images/pallavi.jpg
 ---
 I am a first year masters student at CICS UMass. I like working on projects in Machine Learning and Deep learning. As a co-chair, I want to highlight the groundbreaking work that several women in computing have done and continue to do. 
 
