@@ -2,7 +2,7 @@
 publish: true
 layout: default
 title: Graduate Co-Chair
-name: "Nidhi Mundra"
+name: "Ananya Ganesh"
 email: nmundra@cs.umass.edu 
 webpage: 
 year: 1st
