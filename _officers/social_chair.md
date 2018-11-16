@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 layout: default
 title: Social Co-Chair
 name: "Rian Shambaugh"
