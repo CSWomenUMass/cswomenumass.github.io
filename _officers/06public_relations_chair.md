@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 layout: default
 title: Public Relations Chair
 name: "Su Lin Blodgett"

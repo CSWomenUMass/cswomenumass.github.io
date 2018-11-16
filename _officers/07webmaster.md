@@ -9,5 +9,5 @@ year: 1st
 program: MS
 labname: 
 labpage: 
-thumbnail: images/xinmiao.jpg
+thumbnail: images/xm.jpg
 ---
