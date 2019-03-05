@@ -9,5 +9,5 @@ year: 1st year
 program: PhD
 labname: 
 labpage: 
-thumbnail: images/rakshita.jpg
+thumbnail: images/NehaNayak_photo.jpg
 ---
