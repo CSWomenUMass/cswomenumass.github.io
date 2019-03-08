@@ -1,0 +1,75 @@
+# Site
+name: "UMass Amherst CS Women"
+title: "UMass Amherst CS Women"
+description: "Promoting the representation and interests of women in computing. "
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ""
+mailchimp-list: 
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  cswomen:
+    name: CS Women
+    display_name: CSWomen
+    email: cswomenleadership@gmail.com
+    twitter: https://twitter.com/cswomenumass
+  jfoley:
+    avatar: '/images/avatars/jfoley.png'
+    display_name: Jfoley
+  tosch:
+    avatar: '/images/avatars/etosch.png'
+    display_name: Emma Tosch
+  kritishrivastava:
+    avatar: '/images/avatars/kritishrivastava.png'
+    display_name: Kriti Shrivastava
+  myungha:
+    avatar: '/images/avatars/myungha.png'
+    display_name: Myungha Jang
+  nidhimundhra:
+    avatar: '/images/avatars/nidhimundhra.png'
+    display_name: Nidhi Mundra
+  rian:
+    avatar: '/images/avatars/rian.png'
+    display_name: Rian Shambaugh
+  shamya:
+    avatar: '/images/avatars/S.png'
+    display_name: Shamya
+  shiri:
+    avatar: '/images/avatars/S.png'
+    display_name: Shiri
+  sofya:
+    avatar: '/images/avatars/S.png'
+    display_name: Sofya
+    
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: "blog/page:num"
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
