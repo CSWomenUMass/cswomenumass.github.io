@@ -3,6 +3,7 @@ layout: post
 title: "Sandhya Subramanian presents her paper at ICAPS 2017, held at CMU"
 date: 2017-06-22 00:00:00
 categories: travelgrant
+image: /assets/images/blog/travel-subramanian-1.jpg
 author: nidhimundra
 ---
 
@@ -14,7 +15,7 @@ The conference, including the workshops, was a 5-day event and the attendees wer
 
 Almost everyday, there were panel discussions towards the end of the day. The topics for the panel discussion were very interesting and were centered around the various perspectives of future research directions in AI Planning. The panelists were a mix of renowned professors, sharing their views from different an academia perspective, and researchers from the industry, sharing their views from an industry perspective. Here's a picture of the panel.
 
-![Sandhya's Experience 1](/images/travelgrant/panel_ICAPS.jpg)
+![Sandhya's Experience 1](/assets/images/blog/travel-subramanian-1.jpg)
 
 The coffee breaks were ideal for casual discussions among the attendees. My interaction with few professors and fellow PhD students during the coffee breaks helped me gain some valuable insights regarding future directions of my current research. Their feedback was very useful and their enthusiasm for my work increased my confidence!
 

@@ -6,7 +6,7 @@ categories: travelgrant
 author: sofya
 ---
 
-![WFUM logo](/images/WFUMlogo.png){:style="float: left; margin:0 15px 10px 0; width: 300px; "}
+![WFUM logo](/assets/images/wfum_logo.png){:style="float: left; margin:0 15px 10px 0; width: 300px; "}
 Thanks to the support of [Women for UMass Amherst](http://www.umass.edu/wfum/), we have awarded another [Travel Grant](http://cswomenumass.github.io/travelgrant.html)! Amanda Doucette received $500 to cover the costs of her visit to the [Cognitive Modeling and Computational Linguistics workshop](http://cmcl2017.osu.edu/). Below is her impression of the event.
 
 <!--break-->

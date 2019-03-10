@@ -13,7 +13,7 @@ The first talk of the semester featured [Susan Landau](http://www.privacyink.org
 
 # Bio
 
-![Susan Landau](/images/susan.jpg){:style="float: right; left-padding: 15px; max-width: 256px; border: solid;"}
+![Susan Landau](/assets/images/blog/landau.jpg){:style="float: right; left-padding: 15px; max-width: 256px; border: solid;"}
 Susan Landau works at the intersection of cybersecurity, national security, law, and policy.
 During the Crypto Wars of the 1990s, her insights on how government encryption policy skewed civil
 society and business needs for security helped win the argument for a relaxation of cryptographic

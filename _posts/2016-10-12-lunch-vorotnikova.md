@@ -15,7 +15,7 @@ procrastination.
 
 # Bio
 
-![Sofya Vorotnikova](/images/sofya.jpg){:style="float: right; left-padding: 15px; max-width: 256px; border: solid;"}
+![Sofya Vorotnikova](/assets/images/blog/vorotnikova.jpg){:style="float: right; left-padding: 15px; max-width: 256px; border: solid;"}
 Sofya is a third year MS/PhD student at UMass Amherst.  She works with Andrew McGregor in the
 Theory group. She received her Bachelor's degree in Computer Science and Mathematics from
 UMass in 2014. Her research interests lie in the area of design and analysis of algorithms. She is

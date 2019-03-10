@@ -10,7 +10,7 @@ image: assets/images/blog/valdes.jpg
 On Wednesday, November 18, invited speaker [Consuelo Valdes](http://consuelovaldes.com/) gave a talk on her experience with design and user experience research and on the importance of soft skills. 21 members attended: 5 undergraduate students and 16 graduate students.
 
 ## Bio
-![Consuelo Valdes](/images/valdes.jpg){:style="float: right; margin:0 10px 10px 0; max-height:256px; border: solid black 1px"}
+![Consuelo Valdes](/assets/images/blog/valdes.jpg){:style="float: right; margin:0 10px 10px 0; max-height:256px; border: solid black 1px"}
 Consuelo Valdes is a user experience designer currently working in cyber-security. After graduating Wellesley College in 2011 with a B.A. in Media Arts & Sciences, she became a research fellow at the Wellesley College Human-Computer Interaction lab. Since transitioning to industry in 2013, Consuelo has worked as a UX designer in healthcare security and cyber-security. Throughout her professional career, Consuelo has designed and built tabletop interfaces, mobile apps, holographic interfaces, and automagical interfaces.
 
 ## Research Talk: HCI/UX: Museum to Malware 

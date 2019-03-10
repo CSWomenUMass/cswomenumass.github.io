@@ -5,8 +5,8 @@
     <description>Promoting the representation and interests of women in computing. </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Mar 2019 11:37:32 -0400</pubDate>
-    <lastBuildDate>Sun, 10 Mar 2019 11:37:32 -0400</lastBuildDate>
+    <pubDate>Sun, 10 Mar 2019 12:18:08 -0400</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2019 12:18:08 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -84,7 +84,7 @@ Days were filled with keynote talks on cognitive architectures geared towards ap
     
       <item>
         <title>SouYoung attends CVPR 2017 at Hawaii</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/WFUMlogo.png&quot; alt=&quot;WFUM logo&quot; /&gt;  &lt;br /&gt;&lt;br /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/wfum_logo.png&quot; alt=&quot;WFUM logo&quot; /&gt;  &lt;br /&gt;&lt;br /&gt;
 Thanks to the support of &lt;a href=&quot;http://www.umass.edu/wfum/&quot;&gt;Women for UMass Amherst&lt;/a&gt;, we have awarded another &lt;a href=&quot;http://cswomenumass.github.io/travelgrant.html&quot;&gt;Travel Grant&lt;/a&gt;! Sou Young received $500 to cover the costs of her visit to &lt;a href=&quot;http://cvpr2017.thecvf.com/&quot;&gt;IEEE’s computer vision and pattern recognition conference&lt;/a&gt;. Below is her impression of the event.&lt;/p&gt;
 
 &lt;!--break--&gt;
@@ -92,12 +92,12 @@ Thanks to the support of &lt;a href=&quot;http://www.umass.edu/wfum/&quot;&gt;Wo
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Hawaii is a really great place for summer vacation, but I have experienced something different this summer by attending a conference there! It is IEEE/CVF computer vision and pattern recognition (CVPR) which is one of the top-tier conferences in the computer vision community. Thanks to CS Women, I could attend this year’s CVPR and present my workshop paper at &lt;a href=&quot;https://sites.google.com/view/fgvc4/home&quot;&gt;Fine-Grained Visual Categorization (FGVC)&lt;/a&gt;. My work is to group faces in a movie without any supervision, which can cluster the same person with a unique ID. In the poster session, I introduced my proposed work and showed a demo video. I discussed my work with many people and got a lot of valuable comments. &lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;/images/travelgrant/SouYoung-poster.jpg&quot; alt=&quot;SouYoung at her poster presentation&quot; /&gt; &lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/blog/travel-jin-1.jpg&quot; alt=&quot;SouYoung at her poster presentation&quot; /&gt; &lt;br /&gt;&lt;br /&gt;
 During the main conference, as there are enormous amount of papers, I had to use my time efficiently. So, everyday I woke up in the morning, I went through all the papers in the list and read some abstracts to check which oral/poster presentations I would like to visit. Then, I read the papers more deeply or visited the corresponding posters to talk with authors at the spot, which is the best part of attending a conference!! &lt;br /&gt;&lt;br /&gt;
 This CVPR had around 200 sponsors from industry, and there were many interesting exhibition booths. Here is a photo of me enjoying the real-time style-transfer demo from NVIDIA. &lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;/images/travelgrant/SouYoung-styletransfer.jpg&quot; alt=&quot;SouYoung at Nvidia's style-transfer demo&quot; /&gt; &lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/blog/travel-jin-2.jpg&quot; alt=&quot;SouYoung at Nvidia's style-transfer demo&quot; /&gt; &lt;br /&gt;&lt;br /&gt;
 In addition to the exhibitions, some companies also held interesting after-dinner events, and I could have good discussions on my research with people who are currently working on the companies. In this CVPR, I have learned a lot and had invaluable experience in my life. I really appreciate of UMass CS Women’s help in giving me the financial support for the conference registration! :) &lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;/images/travelgrant/SouYoung-hawaii.jpg&quot; alt=&quot;Hawaii, USA&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/blog/travel-jin-3.jpg&quot; alt=&quot;Hawaii, USA&quot; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 20 Jul 2017 20:00:00 -0400</pubDate>
@@ -119,7 +119,7 @@ In addition to the exhibitions, some companies also held interesting after-dinne
 
 &lt;p&gt;Almost everyday, there were panel discussions towards the end of the day. The topics for the panel discussion were very interesting and were centered around the various perspectives of future research directions in AI Planning. The panelists were a mix of renowned professors, sharing their views from different an academia perspective, and researchers from the industry, sharing their views from an industry perspective. Here’s a picture of the panel.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/travelgrant/panel_ICAPS.jpg&quot; alt=&quot;Sandhya's Experience 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/travel-subramanian-1.jpg&quot; alt=&quot;Sandhya's Experience 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The coffee breaks were ideal for casual discussions among the attendees. My interaction with few professors and fellow PhD students during the coffee breaks helped me gain some valuable insights regarding future directions of my current research. Their feedback was very useful and their enthusiasm for my work increased my confidence!&lt;/p&gt;
 
@@ -136,7 +136,7 @@ In addition to the exhibitions, some companies also held interesting after-dinne
     
       <item>
         <title>Amanda Doucette Travels to the Cognitive Modeling and Computational Linguistics workshop at EACL 2017</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/WFUMlogo.png&quot; alt=&quot;WFUM logo&quot; style=&quot;float: left; margin:0 15px 10px 0; width: 300px; &quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/wfum_logo.png&quot; alt=&quot;WFUM logo&quot; style=&quot;float: left; margin:0 15px 10px 0; width: 300px; &quot; /&gt;
 Thanks to the support of &lt;a href=&quot;http://www.umass.edu/wfum/&quot;&gt;Women for UMass Amherst&lt;/a&gt;, we have awarded another &lt;a href=&quot;http://cswomenumass.github.io/travelgrant.html&quot;&gt;Travel Grant&lt;/a&gt;! Amanda Doucette received $500 to cover the costs of her visit to the &lt;a href=&quot;http://cmcl2017.osu.edu/&quot;&gt;Cognitive Modeling and Computational Linguistics workshop&lt;/a&gt;. Below is her impression of the event.&lt;/p&gt;
 
 &lt;!--break--&gt;
@@ -165,11 +165,11 @@ I never thought it would be possible for me to present my research at a conferen
         <title>CSWomen Social: Paint Night</title>
         <description>&lt;p&gt;CSWomen paint night was a big success thanks to the great work of our Social Committee! We also thank our photographer for providing pictures of the event. For more pictures visit our &lt;a href=&quot;https://www.facebook.com/groups/cswomen.umass/permalink/1843534889247839/&quot;&gt;Facebook page&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/social/paint_night1.jpg&quot; alt=&quot;Paint Night 1&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/social-paint-night-1.jpg&quot; alt=&quot;Paint Night 1&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/social/paint_night2.jpg&quot; alt=&quot;Paint Night 2&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/social-paint-night-2.jpg&quot; alt=&quot;Paint Night 2&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/social/paint_night3.jpg&quot; alt=&quot;Paint Night 3&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/social-paint-night-3.jpg&quot; alt=&quot;Paint Night 3&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Mar 2017 20:00:00 -0400</pubDate>
         <link>http://localhost:4000/social-paint-night/</link>
@@ -182,7 +182,7 @@ I never thought it would be possible for me to present my research at a conferen
     
       <item>
         <title>Rachee Singh Travels to Google Networking Research Summit</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/WFUMlogo.png&quot; alt=&quot;WFUM logo&quot; style=&quot;float: left; margin:0 15px 10px 0; width: 300px; &quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/wfum_logo.png&quot; alt=&quot;WFUM logo&quot; style=&quot;float: left; margin:0 15px 10px 0; width: 300px; &quot; /&gt;
 Thanks to the support of &lt;a href=&quot;http://www.umass.edu/wfum/&quot;&gt;Women for UMass Amherst&lt;/a&gt;, we have awarded out first &lt;a href=&quot;http://cswomenumass.github.io/travelgrant.html&quot;&gt;Travel Grant&lt;/a&gt;! Rachee Singh received $500 to cover the costs of her visit to Google Networking Research Summit. Below is her impression of the event.&lt;/p&gt;
 
 &lt;!--break--&gt;
@@ -196,7 +196,7 @@ The coffee breaks offered a great opportunity to meet Googlers who gave us a pee
 The event was enjoyable and beneficial to me and I hope Google continues to organize it. I am also thankful to &lt;a href=&quot;http://www.umass.edu/wfum/&quot;&gt;Women for UMass Amherst&lt;/a&gt; and &lt;a href=&quot;http://cswomenumass.github.io/index.html&quot;&gt;CSWomen group&lt;/a&gt; for providing their generous financial support. It helped cover some of the travel expenses to attend this wonderful event!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/travelgrant/google-summit.png&quot; alt=&quot;Google Summit&quot; style=&quot;margin: 15px 10px 10px 0; width=750px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/travel-singh-1.png&quot; alt=&quot;Google Summit&quot; style=&quot;margin: 15px 10px 10px 0; width=750px&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 20:00:00 -0400</pubDate>
         <link>http://localhost:4000/travel-singh/</link>
@@ -211,11 +211,11 @@ The event was enjoyable and beneficial to me and I hope Google continues to orga
         <title>CSWomen Social: High Horse</title>
         <description>&lt;p&gt;The first social event of the semester, a casual gathering at High Horse for food and drinks.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/social/high_horse1.jpg&quot; alt=&quot;High Horse 1&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/social_high_horse_1.jpg&quot; alt=&quot;High Horse 1&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/social/high_horse2.jpg&quot; alt=&quot;High Horse 2&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/social_high_horse_2.jpg&quot; alt=&quot;High Horse 2&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/social/high_horse3.jpg&quot; alt=&quot;High Horse 3&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/social_high_horse_3.jpg&quot; alt=&quot;High Horse 3&quot; style=&quot;margin:15px 10px 10px 0; width=700px&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 09 Feb 2017 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/social-high-horse/</link>

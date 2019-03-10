@@ -15,7 +15,7 @@ The retreat started with some breakfast and coffee at 9:30AM. The Assistant Dire
 
 Post lunch, there was an open discussion with the mentors -- coordinated by the WW2A mentoring program committe ([Emma Strubell](http://people.cs.umass.edu/~strubell/), [John Foley](http://jjfiv.github.io) and [Shamya Karumbaiah](http://shamya.github.io)). Since this is the first year running a mentoring program of this sort, the suggestions from the mentors were highly useful. The WW2A mentoring program committee will consider these comments in formulating the program better. 
 
-![Mentor Training](/images/mentor_training.jpg)
+![Mentor Training](/assets/images/blog/mentor_training.jpg)
 
 The mentoring program will formally begin on June 1 with the introductions of the mentor-mentee pairs. With a goal of fostering cross cultural ties, this mentoring program will embark upon a new form of mentorship. 
 

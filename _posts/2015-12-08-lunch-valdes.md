@@ -3,7 +3,7 @@ layout: post
 date: 2015-12-08 10:21:00
 categories: lunch
 author: tosch
-image: assets/images/blog/valdes.jpg
+image: /assets/images/blog/valdes.jpg
 published: false
 status: draft
 ---
@@ -18,6 +18,6 @@ Every opportunity I have had in my life, I can trace back to the personal connec
 
 
 ## Bio
-![Consuelo Valdes](/images/valdes.jpg){:style="float: right; margin: -10px 10px 10px 10px; max-height:256px; border: black solid 1px"}
+![Consuelo Valdes](/assets/images/blog/valdes.jpg){:style="float: right; margin: -10px 10px 10px 10px; max-height:256px; border: black solid 1px"}
 
 Consuelo Valdes is a user experience designer (AKA UX Unicorn) currently working in cyber-security. After graduating Wellesley College in 2011 with a B.A. in Media Arts & Sciences, she became a research fellow at the Wellesley College Human-Computer Interaction lab. Since transitioning to industry in 2013, Consuelo has worked as a UX designer in healthcare security and cyber-security. Throughout her professional career, Consuelo has designed and built tabletop interfaces, mobile apps, holographic interfaces, and automagical interfaces. 
