@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+<link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
     
 <title>{{ page.title }} | {{site.name}}</title>
         
@@ -33,7 +33,8 @@
     
     <div class="container pr-0">    
 
-    <img src="{{ site.baseurl }}/assets/logo.png" width=10%>
+    {{ site.baseurl}}
+    <a href="{{ site.baseurl }}/index.html"> <img src="{{ site.baseurl }}/assets/logo.png" width=100px> </a>
     
     {% assign sorted_pages = site.pages | sort:"order" %}
       {% for node in sorted_pages %}
@@ -58,16 +59,6 @@
 <div class="site-content">   
     
 <div class="container">
-    
-<!-- Site Title
-================================================== -->
-<div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
-    <p class="lead">
-         {{ site.description }}
-    </p>
-</div>
-
     
     
 <!-- Content
