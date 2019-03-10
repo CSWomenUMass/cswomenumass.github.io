@@ -2,9 +2,8 @@
 layout: post
 date: 2015-12-08 10:21:00
 categories: lunch
-thumbnail: /images/valdes.jpg
 author: tosch
-image: images/blog/valdes.jpg
+image: assets/images/blog/valdes.jpg
 published: false
 status: draft
 ---

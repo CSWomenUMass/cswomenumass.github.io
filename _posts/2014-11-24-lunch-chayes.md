@@ -3,7 +3,7 @@ layout: post
 title: "Lunch with Jennifer Chayes"
 date: 2014-11-24
 categories: lunch
-image: images/blog/chayes.jpg
+image: assets/images/blog/chayes.jpg
 author: myungha
 ---
 

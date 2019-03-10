@@ -4,7 +4,7 @@ title: "Su Lin Blodgett describes her research and what makes CICS a great place
 date: 2018-03-26 00:00:00
 categories: social
 author: kritishrivastava
-image: images/blog/blodgett-video.png
+image: assets/images/blog/blodgett-video.png
 featured: true
 ---
 <br/><br/>

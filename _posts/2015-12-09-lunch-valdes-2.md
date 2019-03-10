@@ -4,7 +4,7 @@ title: "Lunch with Consuelo Valdes"
 date: 2015-12-09 00:00:00
 categories: lunch
 author: sofya
-image: images/blog/valdes.jpg
+image: assets/images/blog/valdes.jpg
 ---
 
 On Wednesday, November 18, invited speaker [Consuelo Valdes](http://consuelovaldes.com/) gave a talk on her experience with design and user experience research and on the importance of soft skills. 21 members attended: 5 undergraduate students and 16 graduate students.

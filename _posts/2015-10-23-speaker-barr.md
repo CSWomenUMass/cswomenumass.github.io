@@ -3,7 +3,7 @@ layout: post
 title: "Invited Speaker: Valerie Barr"
 date: 2015-10-23 00:00:00
 categories: lunch
-image: images/blog/barr.jpg
+image: assets/images/blog/barr.jpg
 author: tosch
 ---
 

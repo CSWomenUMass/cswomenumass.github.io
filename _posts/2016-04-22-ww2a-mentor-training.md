@@ -4,7 +4,7 @@ title: "WW2A Mentors Retreat"
 date: 2016-04-22 00:00:00
 categories: ww2a
 author: shamya
-image: images/blog/mentor-retreat-group.jpg
+image: assets/images/blog/mentor-retreat-group.jpg
 ---
 
 ![Some of our mentors!](/images/mentor_retreat_group.jpg)

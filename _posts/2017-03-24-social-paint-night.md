@@ -4,7 +4,7 @@ title: "CSWomen Social: Paint Night"
 date: 2017-03-24 00:00:00
 categories: social
 author: sofya
-image: images/blog/social-paint-night.jpg
+image: assets/images/blog/social-paint-night.jpg
 ---
 
 CSWomen paint night was a big success thanks to the great work of our Social Committee! We also thank our photographer for providing pictures of the event. For more pictures visit our [Facebook page](https://www.facebook.com/groups/cswomen.umass/permalink/1843534889247839/).

@@ -4,7 +4,7 @@ title: "First Lunch of the semester with Susan Landau"
 date: 2016-09-26 00:00:00
 categories: lunch
 author: rian
-image: images/blog/landau.jpg
+image: assets/images/blog/landau.jpg
 ---
 
 The first talk of the semester featured [Susan Landau](http://www.privacyink.org/).

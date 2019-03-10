@@ -4,7 +4,7 @@ title: "Tiffany Liu attends summer school program on Cognitive Architectures at 
 date: 2017-09-29 00:00:00
 categories: travelgrant
 author: kritishrivastava
-image: images/blog/travel-liu.jpg
+image: assets/images/blog/travel-liu.jpg
 ---
 <br/><br/>
 >As my summer of 2017 came to a close, I had the fortune of attending a [week-long summer school program on Cognitive Architectures](https://cit-ec.de/en/graduate-school/summerschool) at Universität Bielefeld Cluster of Excellence Cognitive Interaction Technology ([CITEC](https://www.cit-ec.de/en)) in Germany.

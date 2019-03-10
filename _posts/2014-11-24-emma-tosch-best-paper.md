@@ -3,7 +3,7 @@ layout: post
 title: "Emma Tosch Won Best Paper Award at OOPSLA '14"
 date: 2014-11-24
 categories: goodnews
-image: images/blog/tosch.jpg
+image: assets/images/blog/tosch.jpg
 author: myungha
 ---
 

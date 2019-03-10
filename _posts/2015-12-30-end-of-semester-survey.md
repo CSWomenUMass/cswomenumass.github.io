@@ -3,7 +3,7 @@ layout: post
 title: End of Semester Survey (Closes 1/8/16)
 categories: survey
 published: true
-image: images/blog/survey-pic.svg
+image: assets/images/blog/survey-pic.svg
 author: tosch
 ---
 The end of the semester is here! We will be announcing available positions for the Spring semester very soon. We will also be sending out a report on the activities we ran in the fall semester.

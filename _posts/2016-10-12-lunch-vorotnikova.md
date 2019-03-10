@@ -4,7 +4,7 @@ title: "Sofya Vorotnikova Speaks @ Second Lunch"
 date: 2016-10-12 00:00:00
 categories: lunch
 author: rian
-image: images/blog/vorotnikova.jpg
+image: assets/images/blog/vorotnikova.jpg
 ---
 
 Today, CSWomen co-chair, [Sofya Vorotnikova](https://people.cs.umass.edu/~svorotni/), talked about

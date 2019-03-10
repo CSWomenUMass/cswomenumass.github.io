@@ -4,7 +4,7 @@ title: "Second Lunch with Researcher Jinying Chen"
 date: 2015-11-11 00:00:00
 categories: lunch
 author: sofya
-image: images/blog/chen.jpg
+image: assets/images/blog/chen.jpg
 ---
 
 The second talk of the semester brough Research Scientist [Jinying Chen](http://bio-nlp.org/index.php/people) from UMass Medical. 26 members attended: 2 faculty members, 4 undergraduates, and 20 graduate students. 

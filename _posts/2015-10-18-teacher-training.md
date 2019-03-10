@@ -3,7 +3,7 @@ layout: post
 title: "Teacher Training for Technical Skills Workshops"
 date: 2015-10-18 00:00:00
 categories: workshops
-image: images/blog/teachers.jpg
+image: assets/images/blog/teachers.jpg
 author: tosch
 ---
 

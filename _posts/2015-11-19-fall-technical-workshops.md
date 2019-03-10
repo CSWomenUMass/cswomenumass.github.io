@@ -3,7 +3,7 @@ layout: post
 title: "Fall Technical Workshop Series Wrapping Up"
 date: 2015-11-19 09:12:00
 categories: ncwit workshops
-image: images/blog/git-workshop.jpg
+image: assets/images/blog/git-workshop.jpg
 author: tosch
 ---
 

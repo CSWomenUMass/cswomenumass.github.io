@@ -4,7 +4,7 @@ title:  "Ice Cream Social"
 date:   2014-09-27
 categories: social
 author: tosch
-image: images/blog/social-ice-cream-2014.jpg
+image: assets/images/blog/social-ice-cream-2014.jpg
 ---
 
 

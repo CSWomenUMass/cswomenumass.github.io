@@ -5,7 +5,7 @@ date: 2016-04-02 00:00:00
 categories: ghc
 author: shiri
 transcribed: jfoley
-image: images/blog/grace-hopper.jpg
+image: assets/images/blog/grace-hopper.jpg
 ---
 
 One of our members, Shiri Dori-Hacohen, has been successful in being awarded the Grace Hopper scholarship to attend GHC multiple times in the past. As a result, she often fields questions about the admissions process. This year, she has taken the time to compile them into a list of "frequently-asked-questions" for members working on their application or attending for the first time.

@@ -4,7 +4,7 @@ title: "Lunch with Barna Saha"
 date: 2016-05-18 00:00:00
 categories: lunch
 author: sofya
-image: images/blog/saha.jpg
+image: assets/images/blog/saha.jpg
 ---
 
 The last talk of the semester brought [Barna Saha](https://barnasaha.net/), an Assistant Professor at UMass Amherst College of Information and Computer Sciences. She talked about the Dyck language, the problem of language edit distance, and its relation to other problems.

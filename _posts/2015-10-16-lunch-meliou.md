@@ -3,7 +3,7 @@ layout: post
 title: "First Lunch Features Prof. Alexandra Meliou"
 date: 2015-10-16 00:00:00
 categories: lunch
-image: images/blog/meliou.jpg
+image: assets/images/blog/meliou.jpg
 author: tosch
 ---
 

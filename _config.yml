@@ -17,34 +17,34 @@ authors:
     email: cswomenleadership@gmail.com
     twitter: https://twitter.com/cswomenumass
   jfoley:
-    avatar: '/images/avatars/jfoley.png'
+    avatar: 'assets/images/avatars/jfoley.png'
     display_name: Jfoley
   tosch:
-    avatar: '/images/avatars/etosch.png'
+    avatar: 'assets/images/avatars/etosch.png'
     display_name: Emma Tosch
   kritishrivastava:
-    avatar: '/images/avatars/kritishrivastava.png'
+    avatar: 'assets/images/avatars/kritishrivastava.png'
     display_name: Kriti Shrivastava
   manpreet:
-    avatar: '/images/avatars/manpreet.png'
+    avatar: 'assets/images/avatars/manpreet.png'
     display_name: Manpreet
   myungha:
-    avatar: '/images/avatars/myungha.png'
+    avatar: 'assets/images/avatars/myungha.png'
     display_name: Myungha Jang
   nidhimundhra:
-    avatar: '/images/avatars/nidhimundhra.png'
+    avatar: 'assets/images/avatars/nidhimundhra.png'
     display_name: Nidhi Mundra
   rian:
-    avatar: '/images/avatars/rian.png'
+    avatar: 'assets/images/avatars/rian.png'
     display_name: Rian Shambaugh
   shamya:
-    avatar: '/images/avatars/S.png'
+    avatar: 'assets/images/avatars/S.png'
     display_name: Shamya
   shiri:
-    avatar: '/images/avatars/S.png'
+    avatar: 'assets/images/avatars/S.png'
     display_name: Shiri
   sofya:
-    avatar: '/images/avatars/S.png'
+    avatar: 'assets/images/avatars/S.png'
     display_name: Sofya
     
 # Plugins

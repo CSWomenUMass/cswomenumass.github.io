@@ -4,7 +4,7 @@ title: "Lunch with Jennifer Williams"
 date: 2016-01-02 00:00:00
 categories: lunch
 author: sofya
-image: images/blog/williams.jpg
+image: assets/images/blog/williams.jpg
 ---
 
 On Wednesday, December 16, invited speaker [Jennifer Williams](https://www.ll.mit.edu/mission/cybersec/cybersec-bios/williams-j-bio.html), of [MIT Lincoln Labs](https://www.ll.mit.edu/), gave a talk on her work on cross-language summarization and her experience as a first generation college student.

@@ -4,7 +4,7 @@ title: "CSWomen hikes Mt. Norwottuck from the Notch"
 date: 2016-09-05 00:00:00
 categories: hike
 author: jfoley
-image: images/blog/hiking-notch.jpg
+image: assets/images/blog/hiking-notch.jpg
 ---
 
  On the Saturday of Labor Day Weekend, before the start of school, CSWomen hosted their second ever hike. The Pioneer Valley is a beautiful place filled with many opportunities to get out and enjoy nature. We had 10 women attend, including several students starting this year as well as veterans.

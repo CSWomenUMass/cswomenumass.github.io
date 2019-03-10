@@ -4,7 +4,7 @@ title: "Lockdown lifted, Suspect Caught | Grad Cohort"
 date: 2016-04-25 00:00:00
 categories: grad-cohort
 author: shamya
-image: images/blog/grad-cohort.jpg
+image: assets/images/blog/grad-cohort.jpg
 ---
 
 Two days of lockdown in a building full of 551+31+ women - some of them truly inspirational and the rest on their path to be one. This was held in response to a threat to women in computing. These women were briefed about their incredible role as the harbinger of the new era of computing research. All the incidents listed in this report are truly personal anecdotes. No person or organization shall be held responsible. Pardon my language, I have been lately watching a lot of cop thrillers.

@@ -3,7 +3,7 @@ layout: post
 title: "First Lunch of the Semester Features Research Scientist Laura Dietz"
 date: 2015-02-21
 categories: lunch
-image: images/blog/dietz.jpg
+image: assets/images/blog/dietz.jpg
 author: tosch
 ---
 

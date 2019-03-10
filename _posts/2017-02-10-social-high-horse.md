@@ -3,7 +3,7 @@ layout: post
 title: "CSWomen Social: High Horse"
 date: 2017-02-10 00:00:00
 categories: social
-image: images/blog/social-high-horse.jpg
+image: assets/images/blog/social-high-horse.jpg
 ---
 
 The first social event of the semester, a casual gathering at High Horse for food and drinks.
