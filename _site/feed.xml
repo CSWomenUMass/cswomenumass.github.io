@@ -5,8 +5,8 @@
     <description>Promoting the representation and interests of women in computing. </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Mar 2019 09:45:15 -0400</pubDate>
-    <lastBuildDate>Sun, 10 Mar 2019 09:45:15 -0400</lastBuildDate>
+    <pubDate>Sun, 10 Mar 2019 10:43:58 -0400</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2019 10:43:58 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -37,11 +37,11 @@ Click below to watch her video.
   &lt;p&gt;In early November, I went to attend AMIA (American Medical Informatics Association) 2017 Annual Symposium at Washington D.C. The conference is about informatics for improving health and making better healthcare decisions, basically in five domains of informatics: translational bioinformatics, clinical research informatics, clinical informatics, consumer health informatics, and public health informatics. I went to present my paper of using natural language processing method for data mining in Electronic Health Records. I am very happy that people showed interest on my work and asked me questions, and I also got valuable insights from them for future work.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/travelgrant/amia1.jpeg&quot; alt=&quot;Li-conference&quot; style=&quot;margin: 15px 10px 10px 0; height=500px; width=600px&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/travel-li-1.jpg&quot; alt=&quot;Li-conference&quot; style=&quot;margin: 15px 10px 10px 0; height=500px; width=600px&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Besides the keynote presentations, various talks, poster sessions and workshops, AMIA also offers rich networking opportunities, like AMIA New Member and First Time Attendee Reception, Women in AMIA Networking Event, AMIA dancing party etc. It’s great to talk with researchers working in different aspects of medical informatics and to learn from them.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/travelgrant/amia2.jpeg&quot; alt=&quot;Li-poster&quot; style=&quot;margin: 15px 10px 10px 0; height=600px; width=400px&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/travel-li-2.jpg&quot; alt=&quot;Li-poster&quot; style=&quot;margin: 15px 10px 10px 0; height=600px; width=400px&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;In general, it’s a wonderful and very rewarding experience for me. I am very thankful to &lt;a href=&quot;http://www.umass.edu/wfum/&quot;&gt;Women for UMass Amherst&lt;/a&gt; and &lt;a href=&quot;http://cswomenumass.github.io/index.html&quot;&gt;CSWomen group&lt;/a&gt; for providing the generous financial support, which help covered part of the travel expenses.&lt;/p&gt;
 </description>
@@ -61,15 +61,16 @@ Click below to watch her video.
   &lt;p&gt;As my summer of 2017 came to a close, I had the fortune of attending a &lt;a href=&quot;https://cit-ec.de/en/graduate-school/summerschool&quot;&gt;week-long summer school program on Cognitive Architectures&lt;/a&gt; at Universität Bielefeld Cluster of Excellence Cognitive Interaction Technology (&lt;a href=&quot;https://www.cit-ec.de/en&quot;&gt;CITEC&lt;/a&gt;) in Germany.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/travelgrant/liu-CITEC_SS_Cognitive_Architectures_Banner.jpg&quot; alt=&quot;Liu-Cognitive Architecture Banner&quot; style=&quot;margin: 15px 10px 10px 0; height=600px; width=600px&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
-Days were filled with keynote talks on cognitive architectures geared towards applications in robotics from senior researchers who are well-known in their research areas. In the afternoon, we split into subgroups where each group was assigned a robotic platform and a task to complete by the end of the week. I was assigned to Pepper, a humanoid robot from SoftBank Robotics, with the task of having it learn how to play the cup-and-ball game. While the task was rather disconnected from the cognitive architecture theme we saw during the keynote talks, it was still fun and interesting to work with a different robotic platform than what I normally use in my lab.
-&lt;img src=&quot;/images/travelgrant/liu-Pepper_Robot.jpg&quot; alt=&quot;Liu - Pepper robot&quot; style=&quot;margin: 15px 10px 10px 0; height=600px; width=600px&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/travel-liu-1.jpg&quot; alt=&quot;Liu-Cognitive Architecture Banner&quot; style=&quot;margin: 15px 10px 10px 0; height=600px; width=600px&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+Days were filled with keynote talks on cognitive architectures geared towards applications in robotics from senior researchers who are well-known in their research areas. In the afternoon, we split into subgroups where each group was assigned a robotic platform and a task to complete by the end of the week. I was assigned to Pepper, a humanoid robot from SoftBank Robotics, with the task of having it learn how to play the cup-and-ball game. While the task was rather disconnected from the cognitive architecture theme we saw during the keynote talks, it was still fun and interesting to work with a different robotic platform than what I normally use in my lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/travel-liu-2.jpg&quot; alt=&quot;Liu - Pepper robot&quot; style=&quot;margin: 15px 10px 10px 0; height=600px; width=600px&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The best part of this whole experience was the unique networking opportunity. CITEC Summer School drew in around 30 young researchers from not only robotics, but also psychology, biology, linguistics, and other subfields of computer science. The majority of the participants were from European research institutions (I was the only from the U.S.). As such I was able to discuss my research interest and bounce ideas off of people both inside and outside the robotics community as well as promote the ongoing work of the robotics community at UMass Amherst. The relatively small and diverse attendance was definitely unique to the summer school and something you would not normally get to experience from larger, more field-targeted conferences.&lt;/p&gt;
 
 &lt;p&gt;Thank you so much &lt;a href=&quot;http://www.umass.edu/wfum/&quot;&gt;Women for UMass Amherst&lt;/a&gt; and &lt;a href=&quot;http://cswomenumass.github.io/index.html&quot;&gt;CS Women&lt;/a&gt; for providing the financial support to subsidize a portion of this trip!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/travelgrant/liu-Castle_Sparrenburg.jpg&quot; alt=&quot;Liu's experience&quot; style=&quot;margin: 15px 10px 10px 0; height=600px; width=600px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/travel-liu-3.jpg&quot; alt=&quot;Liu's experience&quot; style=&quot;margin: 15px 10px 10px 0; height=600px; width=600px&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 28 Sep 2017 20:00:00 -0400</pubDate>
