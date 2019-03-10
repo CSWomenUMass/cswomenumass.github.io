@@ -12,7 +12,7 @@ featured: true
 <br/>
 Click below to watch her video.
 <br/><br/>
-[![Su's experience](/images/su-youtube_video.PNG)](https://www.youtube.com/watch?v=wZMX8mb1ln8)
+[![Su Lin's experience](/images/su-youtube_video.PNG)](https://www.youtube.com/watch?v=wZMX8mb1ln8)
 
 
 
