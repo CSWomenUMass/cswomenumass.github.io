@@ -3,6 +3,7 @@ layout: post
 title: "Rachee Singh Travels to Google Networking Research Summit"
 date: 2017-03-18 00:00:00
 categories: travelgrant
+image: /assets/images/blog/default.jpg
 author: sofya
 ---
 

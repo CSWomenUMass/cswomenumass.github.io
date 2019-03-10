@@ -3,6 +3,7 @@ layout: post
 title: "Second Annual Ice Cream Social A Success"
 date: 2015-10-14 00:00:00
 categories: lunch
+image: /assets/images/blog/default.jpg
 author: tosch
 ---
 
