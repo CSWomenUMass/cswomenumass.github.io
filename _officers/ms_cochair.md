@@ -12,5 +12,3 @@ labpage:
 thumbnail: 
 order: 3
 ---
-
-
