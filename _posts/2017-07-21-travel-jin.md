@@ -3,6 +3,7 @@ layout: post
 title: "SouYoung attends CVPR 2017 at Hawaii"
 date: 2017-07-21 00:00:00
 categories: travelgrant
+image: /assets/images/blog/default.jpg
 author: manpreet
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "Amanda Doucette Travels to the Cognitive Modeling and Computational Linguistics workshop at EACL 2017"
 date: 2017-04-20 00:00:00
 categories: travelgrant
+image: /assets/images/blog/default.jpg
 author: sofya
 ---
 
