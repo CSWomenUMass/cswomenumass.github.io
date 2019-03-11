@@ -38,7 +38,7 @@ var documents = [{
     "id": 7,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "      Featured:                                                                                                                                                                                                 Su Lin Blodgett describes her research and what makes CICS a great place for women graduate students                              :                             Su Lin Blodgett, PhD student at UMass, describes her research and what makes CICS a great place for women graduate students. Click below to watch. . . :                                                                                       &lt;img class= author-thumb  src=/assets/images/avatars/kritishrivastava. png alt= Kriti Shrivastava &gt;                                                Kriti Shrivastava                                25 Mar 2018                                                                                                                                                                                                                                                                                                                                                                          All Posts:                                                                       Su Lin Blodgett describes her research and what makes CICS a great place for women graduate students      :        Su Lin Blodgett, PhD student at UMass, describes her research and what makes CICS a great place for women graduate students. Click below to watch her video.                                     						                                  Kriti Shrivastava                25 Mar 2018                                                                                                      Rumeng Li attends AMIA 2017 Annual Symposium at Washington, D. C.       :       In early November, I went to attend AMIA (American Medical Informatics Association) 2017 Annual Symposium at Washington D. C. The conference is about informatics for improving health and making better healthcare. . .                                     						                                  Kriti Shrivastava                02 Dec 2017                                                                                                      Tiffany Liu attends summer school program on Cognitive Architectures at CITEC, Germany      :       As my summer of 2017 came to a close, I had the fortune of attending a week-long summer school program on Cognitive Architectures at Universität Bielefeld Cluster of Excellence Cognitive. . .                                     						                                  Kriti Shrivastava                28 Sep 2017                                                          &laquo; Prev       1        2        3        4        5        6        7        8        9        10        11        12        13        14      Next &raquo; "
+    "body": "      Featured:                                                                                                                                                                                                 Su Lin Blodgett describes her research and what makes CICS a great place for women graduate students                              :                             Su Lin Blodgett, PhD student at UMass, describes her research and what makes CICS a great place for women graduate students. Click below to watch. . . :                                                                                       &lt;img class= author-thumb  src=/assets/images/avatars/kritishrivastava. png alt= Kriti Shrivastava &gt;                                                Kriti Shrivastava                                25 Mar 2018                                                                                                                                                                                                                                                                                                                                                                          All Posts:                                                                       Su Lin Blodgett describes her research and what makes CICS a great place for women graduate students      :        Su Lin Blodgett, PhD student at UMass, describes her research and what makes CICS a great place for women graduate students. Click below to watch her video.                                     						                                  Kriti Shrivastava                25 Mar 2018                                                                                                      Rumeng Li attends AMIA 2017 Annual Symposium at Washington, D. C.       :       In early November, I went to attend AMIA (American Medical Informatics Association) 2017 Annual Symposium at Washington D. C. The conference is about informatics for improving health and making better healthcare. . .                                     						                                  Kriti Shrivastava                02 Dec 2017                                                                                                      Tiffany Liu attends summer school program on Cognitive Architectures at CITEC, Germany      :       As my summer of 2017 came to a close, I had the fortune of attending a week-long summer school program on Cognitive Architectures at Universität Bielefeld Cluster of Excellence Cognitive. . .                                     						                                  Kriti Shrivastava                28 Sep 2017                                                     "
     }, {
     "id": 8,
     "url": "http://localhost:4000/blog",
@@ -88,67 +88,67 @@ var documents = [{
     "id": 17,
     "url": "http://localhost:4000/blog/page2/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 18,
     "url": "http://localhost:4000/blog/page3/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 19,
     "url": "http://localhost:4000/blog/page4/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 20,
     "url": "http://localhost:4000/blog/page5/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 21,
     "url": "http://localhost:4000/blog/page6/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 22,
     "url": "http://localhost:4000/blog/page7/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 23,
     "url": "http://localhost:4000/blog/page8/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 24,
     "url": "http://localhost:4000/blog/page9/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 25,
     "url": "http://localhost:4000/blog/page10/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 26,
     "url": "http://localhost:4000/blog/page11/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 27,
     "url": "http://localhost:4000/blog/page12/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 28,
     "url": "http://localhost:4000/blog/page13/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 29,
     "url": "http://localhost:4000/blog/page14/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}          {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
     }, {
     "id": 30,
     "url": "http://localhost:4000/su-lin-blodgett/",
