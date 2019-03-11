@@ -2,13 +2,13 @@
 publish: true 
 layout: default
 title: Graduate Co-Chair
-name: "Pallavi Patil"
-email: ppatil@cs.umass.edu
+name: "Katie Keith"
+email: kakeith [at] cs [dot] umass [dot] edu
 webpage: 
-year: 2nd
-program: MS
-labname: 
-labpage: 
-thumbnail: images/ppatil.jpg
-order: 1
+year: 3rd
+program: PhD
+labname: SLANG lab
+labpage: http://slanglab.cs.umass.edu/
+thumbnail: /assets/images/officers/kakeith.jpg
+order: 2
 ---

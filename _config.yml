@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
 mailchimp-list: 
-include: ["_pages"]
+include: ["_pages", "_officers"]
 permalink: /:title/
 
 # Authors
@@ -15,6 +15,7 @@ authors:
     name: CS Women
     display_name: CSWomen
     email: cswomenleadership@gmail.com
+    avatar: '/assets/images/avatars/cswomen.png'
     twitter: https://twitter.com/cswomenumass
   jfoley:
     avatar: '/assets/images/avatars/jfoley.png'
@@ -64,7 +65,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 3
 paginate_path: "blog/page:num"
     
 # Other
@@ -76,3 +77,6 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
+
+collections:
+  - officers

@@ -3,6 +3,7 @@ layout: post
 title: "CSWomen Social: High Horse"
 date: 2017-02-10 00:00:00
 categories: social
+author: cswomen
 image: /assets/images/blog/social-high-horse.jpg
 ---
 

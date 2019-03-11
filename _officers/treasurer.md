@@ -4,10 +4,11 @@ layout: default
 title: Treasurer
 name: "Neha Nayak"
 webpage: 
-email: nnayak@cs.umass.edu
+email: nnayak [at] cs [dot] umass [dot] edu
 year: 1st year
 program: PhD
 labname: 
 labpage: 
-thumbnail: images/NehaNayak_photo.jpg
+thumbnail: /assets/images/officers/nnayak.jpg
+order: 5
 ---
