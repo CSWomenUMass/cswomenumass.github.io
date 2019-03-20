@@ -14,10 +14,13 @@ If you are unfamiliar with Jekyll, I strongly recommend going through [this exce
 ## Common tasks
   
 ### Adding a blog post
-Please read the relevant [README here](/_posts/README).
+Please read the relevant [README here](https://github.com/CSWomenUMass/cswomenumass.github.io/blob/master/_posts/README.md).
 
 ### Adding a new page
-Please read the relevant [README here]().
+Pages are similar to posts, so please follow the instructions in the blog post [README](https://github.com/CSWomenUMass/cswomenumass.github.io/blob/master/_posts/README.md). In addition, please add the following front matter:
+* order: determines the order in which pages appear in the top navbar
+* short-title: determines the title that appears in the top navbar for this page
+* hide-nav: if set to true, prevents page from being shown in the top navbar
 
 ### Adding or changing officers
 Please read the relevant [README here]().
@@ -25,8 +28,8 @@ Please read the relevant [README here]().
 ## Some idiosyncrasies and particulars of this website
 * pagination: I took it out because it was more trouble than it was worth for the number of blog posts we had. Feel free to add it back in later!
 * `blog/`: The reason the blog index is a separate html file in its own folder (and not a page) is because pagination only works on html pages... this was supposed to aid future addition of pagination
-* positions: This used to be a fancy collection, but based on lower participation and in the interests of keeping the website as simple as possible, I moved all position information to one unlinked page ([/positions]()).
-* cards: The pages blog/index.html and /officers both use [Bootstrap cards]() in [masonry grids]().
+* positions: This used to be a fancy collection, but based on lower participation and in the interests of keeping the website as simple as possible, I moved all position information to one unlinked page. (TODO)
+* cards: The pages blog/index.html and /officers both use [Bootstrap cards](https://getbootstrap.com/docs/4.0/components/card/) in [masonry grids](https://masonry.desandro.com/extras.html).
 
 
 ## Contact
