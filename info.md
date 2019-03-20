@@ -22,7 +22,7 @@ Please read the relevant [README here]().
 ### Adding or changing officers
 Please read the relevant [README here]().
 
-## Some idisyncrasies and particulars of this website
+## Some idiosyncrasies and particulars of this website
 * pagination: I took it out because it was more trouble than it was worth for the number of blog posts we had. Feel free to add it back in later!
 * `blog/`: The reason the blog index is a separate html file in its own folder (and not a page) is because pagination only works on html pages... this was supposed to aid future addition of pagination
 * positions: This used to be a fancy collection, but based on lower participation and in the interests of keeping the website as simple as possible, I moved all position information to one unlinked page ([/positions]()).
