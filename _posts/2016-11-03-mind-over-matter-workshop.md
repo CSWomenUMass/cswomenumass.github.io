@@ -4,7 +4,7 @@ title: "Mind Over Matter Workshop"
 date: 2016-11-03 00:00:00
 categories: workshop
 author: rian
-thumbnail: /images/mind.png
+image: assets/images/blog/mind.png
 ---
 
 In this workshop, Alysia Birkholz from the [Office of Professional Development](https://www.umass.edu/gradschool/office-of-professional-development) talked about how to train our brains for optimism and why it's important for graduate school success.

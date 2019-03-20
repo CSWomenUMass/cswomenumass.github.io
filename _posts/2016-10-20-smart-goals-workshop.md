@@ -4,7 +4,7 @@ title: "SMART Goals Workshop"
 date: 2016-10-20 00:00:00
 categories: workshop
 author: rian
-thumbnail: /images/goals.png
+image: assets/images/blog/smart-goals.png
 ---
 
 This workshop, presented by Alysia Birkholz from the [Office of Professional Development](https://www.umass.edu/gradschool/office-of-professional-development), focused on how to set goals and how to stick to them.
