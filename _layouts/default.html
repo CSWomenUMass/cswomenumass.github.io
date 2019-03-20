@@ -38,7 +38,7 @@
     
     {% assign sorted_pages = site.pages | sort:"order" %}
       {% for node in sorted_pages %}
-        {% if node.title != null %}
+        {% if node.title != null  and node.hidenav != true %}
           {% if node.layout == "page" %}
             {% if node.short-title != null %}
               <a class="nav-link" href="{{ node.permalink }}"> {{ node.short-title }}</a>

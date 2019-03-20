@@ -191,6 +191,9 @@
 <loc>http://localhost:4000/officers</loc>
 </url>
 <url>
+<loc>http://localhost:4000/positions</loc>
+</url>
+<url>
 <loc>http://localhost:4000/resources</loc>
 </url>
 <url>
