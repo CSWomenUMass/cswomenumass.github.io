@@ -4,17 +4,17 @@
 
 This site was made using Jekyll, specifically with the theme [Mediumish](https://github.com/wowthemesnet/mediumish-theme-jekyll) (with heavy simplifying modifications).
 I've made an effort to stick to vanilla Jekyll as much as possible, and remove parts of the theme that aren't required for the website with its current content.
-If you are unfamiliar with Jekyll, I strongly recommend going through [this excellent, short introductory tutorial](), and following along with pages in the CS Women website:
+If you are unfamiliar with Jekyll, I strongly recommend going through [this excellent, short introductory tutorial](https://jekyllrb.com/docs/), and following along with pages in the CS Women website:
 * Our `_pages` and `_posts` directories are pretty standard
 * `_officers` contains officers files which consitute a good example of *collections*
 * `assets` contains css and image assets
-* `_includes` has includes for the blog post boxes ([postbox.html]()) and for the officer boxes ([officerbox.html]())
+* `_includes` has includes for the blog post boxes (postbox.html) and for the officer boxes (officerbox.html)
 * `_layouts` contains the page, post and default layouts -- this site uses just the basics.
 
 ## Common tasks
   
 ### Adding a blog post
-Please read the relevant [README here]().
+Please read the relevant [README here](/_posts/README).
 
 ### Adding a new page
 Please read the relevant [README here]().
