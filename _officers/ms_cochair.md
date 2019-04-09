@@ -9,6 +9,6 @@ year: 1st
 program: MS
 labname: 
 labpage: 
-thumbnail: 
+thumbnail: /assets/images/officers/abhagia.jpg
 order: 3
 ---
