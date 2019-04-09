@@ -19,4 +19,4 @@ Preference is given to students who have
 
 In return we ask you to add acknowledgements of the funding sources and thank Women for UMass and CSWomen organizations in your presentation if you are giving one. You will also be required to write a short blog post about your experience at the conference/workshop that we will publish online.
 
-The **application form** can be found [here](https://goo.gl/forms/Q2jBSOuinchZfyEk2).
+The **application form** can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSd8z0dVzm4nRX9gc0qk93lCwM4poG7JWHSBSSMeScbaokTrGg/viewform).
