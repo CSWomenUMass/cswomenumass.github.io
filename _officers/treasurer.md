@@ -2,7 +2,7 @@
 publish: true 
 layout: default
 title: Treasurer
-name: "Neha Nayak"
+name: "Yueying Liu"
 webpage: 
 email: nnayak [at] cs [dot] umass [dot] edu
 year: 1st year
