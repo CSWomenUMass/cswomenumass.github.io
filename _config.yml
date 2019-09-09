@@ -1,49 +1,82 @@
-# Site settings
-title: CS Women UMass Amherst
-email: womenchairs@cs.umass.edu
-description: Promoting and supporting the representation and interests of women in computing.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cics.umass.edu/~women"
-twitter_username: CSWomenUMass
-github_username: cswomenumass
-grad_cochairs: "Emma Tosch, Emma Strubell"
-ugrad_cochairs: "Cassian Corey, Supriya Kankure"
+# Site
+name: "UMass Amherst CS Women"
+title: "UMass Amherst CS Women"
+description: "Promoting the representation and interests of women in computing. "
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ""
+mailchimp-list: 
+include: ["_pages", "_officers"]
+permalink: /:title/
 
-# Build settings
-markdown: kramdown
-paginate: 5
-posts: _posts/blog-posts
-
-# Blog magic
+# Authors
 authors:
+  cswomen:
+    name: CS Women
+    display_name: CSWomen
+    email: cswomenleadership@gmail.com
+    avatar: '/assets/images/avatars/cswomen.png'
+    twitter: https://twitter.com/cswomenumass
+  jfoley:
+    avatar: '/assets/images/avatars/jfoley.png'
+    display_name: Jfoley
   tosch:
+    avatar: '/assets/images/avatars/etosch.png'
     display_name: Emma Tosch
-    gravatar: df6572b0616ed24c7efbfe9b5daeb2af
-    email: etosch@cs.umass.edu
-    web: http://cics.umass.edu/~etosch
-    twitter: emmatosch
-    github: etosch
+  kritishrivastava:
+    avatar: '/assets/images/avatars/kritishrivastava.png'
+    display_name: Kriti Shrivastava
+  manpreet:
+    avatar: '/assets/images/avatars/manpreet.png'
+    display_name: Manpreet
   myungha:
-   display_name: Myung-ha Jang
-   web: http://cics.umass.edu/~mhjang
-  strubell:
-   display_name: Emma Strubell
-   web: http://cics.umass.edu/~strubell
+    avatar: '/assets/images/avatars/myungha.png'
+    display_name: Myungha Jang
+  nidhimundra:
+    avatar: '/assets/images/avatars/nidhimundra.png'
+    display_name: Nidhi Mundra
+  rian:
+    avatar: '/assets/images/avatars/rian.png'
+    display_name: Rian Shambaugh
+  shamya:
+    avatar: '/assets/images/avatars/S.png'
+    display_name: Shamya
+  shiri:
+    avatar: '/assets/images/avatars/S.png'
+    display_name: Shiri
   sofya:
-    display_name: Sofya Vorotnikova
-    web: http://cics.umass.edu/~svorotni
+    avatar: '/assets/images/avatars/S.png'
+    display_name: Sofya
+    
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 3
+paginate_path: "blog/page:num"
+    
+# Other
+markdown: kramdown
 
-# Recognized pages
-navigation:
-- text: About
-  url: /about.html
-- text: Blog
-  url: /index.html
-- text: Events
-  url: /events.html
-- text: Resources
-  url: /resources.html
-- text: Publicity
-  url: /publicity.html
-- text: Get Involved!
-  url: /getinvolved.html
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+collections:
+  - officers

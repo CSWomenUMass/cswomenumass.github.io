@@ -1,0 +1,21 @@
+<div class="col-md-6">
+      <img alt="{{ officer.name }}"
+      src="{{ officer.thumbnail }}"
+      style="float:left; width:180px; height:180px; border:solid; margin: 0 5px 0 0;" />
+      <ul style="list-style-type:none; width:100%">
+        <li><b><a href="{{ officer.webpage }}">{{ officer.name }}</a></b></li>
+        <li><b>{{ officer.title }}</b></li>
+        {% if officer.year %}
+        <li><i>{{ officer.year }} year in the {{ officer.program }} program</i></li>
+        {% endif %}
+	{% if officer.labpage %}
+        <li><a href="{{ officer.labpage }}"><span class="glyphicon glyphicon-briefcase" title="work" aria-hidden="true"></span>&nbsp;{{ officer.labname }}</a></li>
+	{% endif %}
+	{% if officer.email %}
+        <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>&nbsp;{{ officer.email }}</li>
+	{% endif %}
+      </ul>
+        <p>
+	      {{ officer.content }}
+        </p>
+</div>
