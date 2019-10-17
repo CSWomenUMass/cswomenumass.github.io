@@ -12,7 +12,7 @@ If you are unfamiliar with Jekyll, I strongly recommend going through [this exce
 * `_layouts` contains the page, post and default layouts -- this site uses just the basics.
 
 ## Common tasks
-  
+
 ### Adding a blog post
 Please read the relevant [README here](https://github.com/CSWomenUMass/cswomenumass.github.io/blob/master/_posts/README.md).
 
@@ -22,8 +22,14 @@ Pages are similar to posts, so please follow the instructions in the blog post [
 * short-title: determines the title that appears in the top navbar for this page
 * hide-nav: if set to true, prevents page from being shown in the top navbar
 
-### Adding or changing officers
-Please read the relevant [README here]().
+### Adding or changing officer
+To modify officers, you can either fork the repository and set up in the same way as instructed in the blog README file. But make sure that you fork the entire repository rather than just only the blog branch (otherwise pulling from upstream would be a problem). The best way to do it is to obtain admin permission first. The rest of the README is based on the assumption that the user can freely change and this repository.
+
+#### Modify an Officer's Information
+Go to `_officers` folder, find the officer's `.md` file which you want to update and change according to the original format. To update a thumbnail picture, change the pictures at `assets/images/officers`.
+
+#### Add a New Officer
+If you are creating a new position, add a new `.md` file. Copy the format from the other files and add the information accordingly. If the position exists, please refer to the previous section. Make sure the picture names make sense and you clean up unused pictures.
 
 ## Some idiosyncrasies and particulars of this website
 * pagination: I took it out because it was more trouble than it was worth for the number of blog posts we had. Feel free to add it back in later!
@@ -34,4 +40,3 @@ Please read the relevant [README here]().
 
 ## Contact
  Please contact Neha (nnayak@cs...) if you have any questions about the website. I will probably have forgotten most of what I did but it's ok! We can work it out together.
-
