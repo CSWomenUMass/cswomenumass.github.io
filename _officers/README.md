@@ -8,4 +8,4 @@ Go to `_officers` folder, find the officer's `.md` file which you want to update
 
 ## Add a New Officer
 
-If you are creating a new position, add a new `.md` file. Copy the format from the other files and add the information accordingly. If the position exists, please refer to the previous section.
+If you are creating a new position, add a new `.md` file. Copy the format from the other files and add the information accordingly. If the position exists, please refer to the previous section. Make sure the picture names make sense and you clean up unused pictures.
