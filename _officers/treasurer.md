@@ -1,14 +1,14 @@
 ---
-publish: true 
+publish: true
 layout: default
 title: Treasurer
 name: "Yueying Liu"
-webpage: 
-email: nnayak [at] cs [dot] umass [dot] edu
-year: 1st year
-program: PhD
-labname: 
-labpage: 
-thumbnail: /assets/images/officers/nnayak.jpg
+webpage:
+email: yueyingliu [at] cs [dot] umass [dot] edu
+year: 2nd year
+program: MS
+labname:
+labpage:
+thumbnail: /assets/images/officers/yliu.jpg
 order: 5
 ---
