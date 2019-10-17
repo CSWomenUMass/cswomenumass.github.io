@@ -12,7 +12,7 @@ If you are unfamiliar with Jekyll, I strongly recommend going through [this exce
 * `_layouts` contains the page, post and default layouts -- this site uses just the basics.
 
 ## Common tasks
-  
+
 ### Adding a blog post
 Please read the relevant [README here](https://github.com/CSWomenUMass/cswomenumass.github.io/blob/master/_posts/README.md).
 
@@ -23,7 +23,7 @@ Pages are similar to posts, so please follow the instructions in the blog post [
 * hide-nav: if set to true, prevents page from being shown in the top navbar
 
 ### Adding or changing officers
-Please read the relevant [README here]().
+Please read the relevant [README here](https://github.com/CSWomenUMass/cswomenumass.github.io/blob/master/_officers/README.md).
 
 ## Some idiosyncrasies and particulars of this website
 * pagination: I took it out because it was more trouble than it was worth for the number of blog posts we had. Feel free to add it back in later!
@@ -34,4 +34,3 @@ Please read the relevant [README here]().
 
 ## Contact
  Please contact Neha (nnayak@cs...) if you have any questions about the website. I will probably have forgotten most of what I did but it's ok! We can work it out together.
-
