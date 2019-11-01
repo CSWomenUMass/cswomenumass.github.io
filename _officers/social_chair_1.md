@@ -5,7 +5,7 @@ title: Social Co-Chair
 name: "Purva Pruthi"
 email:
 webpage: ppruthi [at] cs [dot] umass [dot] edu
-year: 2nd year
+year: 2nd
 program: MS/PhD
 labname:
 labpage:

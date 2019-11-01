@@ -5,7 +5,7 @@ title: MS Co-Chair
 name: "Pracheta Amaranath"
 email: pboddavarama [at] cs [dot] umass [dot] edu
 webpage:
-year: 2nd year
+year: 2nd
 program: MS
 labname:
 labpage:
