@@ -11,5 +11,5 @@ If you are looking for information about our technical workshop series, take a l
 
 # Events Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=umass.amherst.cs.women%40gmail.com&ctz=America/New_York" style="border: 2" width="800" height="600" frameborder="2" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=cswomenleadership%40gmail.com&ctz=America/New_York" style="border: 2" width="800" height="600" frameborder="2" scrolling="no"></iframe>
 
