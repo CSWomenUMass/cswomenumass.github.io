@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/about",
     "title": "About",
-    "body": "About Us: UMass Amherst CS Women was founded almost 25 years by Professor Lori Clarke as a community to support and serve women faculty and graduate students. Since its beginning, the group’s vibrant leadership has been spearheaded by graduate women addressing the changing needs of our community. The undergraduate Women in Computer Science is another organization. Today we serve almost a hundred graduate women. Our membership has expanded to include female undergraduate computer science majors from the five colleges, as well as advocates of any gender who promote the interests of women in computing. Our focus is on community building. We work closely with the faculty and staff of the College of Information and Computer Sciences to provide programs and services for our female-identified students. We also organize social events, lectures, and other professional activities that are open to all students in the College of Information and Computer Sciences. Two graduate women students, often joined by two undergraduate women, serve as co-chairs for 2-semester terms. If you would like to get involved, email us at womenchairs@cs. umass. edu. Mission statement: The mission of CSWomen at UMass Amherst is to:  build a strong community of female-identified computer science graduate students enhance the academic and professional successes of its members promote an inclusive community within the College, and highlight disparities celebrate accomplishments of women in computer science. We achieve this mission by organizing and supporting  professional panels and career-building events, academic talks from women leaders in academia and industry, and informal social networks and events. "
+    "body": "About Us: UMass Amherst CS Women was founded almost 25 years by Professor Lori Clarke as a community to support and serve women faculty and graduate students. Since its beginning, the group’s vibrant leadership has been spearheaded by graduate women addressing the changing needs of our community. The undergraduate Women in Computer Science (WiCS) is another organization. Today we serve almost a hundred graduate women. Our membership has expanded to include female undergraduate computer science majors from the five colleges, as well as advocates of any gender who promote the interests of women in computing. Our focus is on community building. We work closely with the faculty and staff of the College of Information and Computer Sciences to provide programs and services for our female-identified students. We also organize social events, lectures, and other professional activities that are open to all students in the College of Information and Computer Sciences. Two graduate women students, often joined by two undergraduate women, serve as co-chairs for 2-semester terms. If you would like to get involved, email us at womenchairs@cs. umass. edu. Mission statement: The mission of CSWomen at UMass Amherst is to:  build a strong community of female-identified computer science graduate students enhance the academic and professional successes of its members promote an inclusive community within the College, and highlight disparities celebrate accomplishments of women in computer science. We achieve this mission by organizing and supporting  professional panels and career-building events, academic talks from women leaders in academia and industry, and informal social networks and events. Miscellaneous: We are an organization of graduate women in computer science at UMass. Please check WiCS for the undergraduate group. Women in Computer Science (WiCS) "
     }, {
     "id": 2,
     "url": "http://localhost:4000/_officers/admin_czar/",
@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/events",
     "title": "Events",
-    "body": "Technical Workshop SeriesIf you are looking for information about our technical workshop series, take a look at the workshop series master repository. Make sure you take a look at the bootcamp first. All scheduled events are listed on the calendar below. Events Calendar"
+    "body": "Events Held in Fall 2019 Semester welcome and board games lunch (9/11) Hema Raghavan, Director of Engineering at LinkedIn (9/20) Google Resume Workshop (9/20) CSWomen Hike to Mount Norwottuck (10/4) Ananya Howard, Mark C. Smith Professor and Chair of the School of Interactive Computing in the College of Computing at Georgia Tech (10/7) Halloween Tea (10/31) Graduate Student Panel (12/3)Technical Workshop SeriesIf you are looking for information about our technical workshop series, take a look at the workshop series master repository. Make sure you take a look at the bootcamp first. All scheduled events are listed on the calendar below. Events Calendar"
     }, {
     "id": 4,
     "url": "http://localhost:4000/get-involved",
@@ -38,7 +38,7 @@ var documents = [{
     "id": 7,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "      Featured:                                                                                                                                                                                                                                                 Su Lin Blodgett describes her research and what makes CICS a great place for women graduate students                              :                             Su Lin Blodgett, PhD student at UMass, describes her research and what makes CICS a great place for women graduate students. Click below to watch. . . :                                                                                       &lt;img class= author-thumb  src=/assets/images/avatars/kritishrivastava. png alt= Kriti Shrivastava &gt;                                                Kriti Shrivastava                                25 Mar 2018                                                                                                                                                                                                                                                                                                                                                                          All Posts:                                                                      Cecilia Ferrando Attended NeurIPS 2019      :       This December I attended my first NeurIPS conference, the largest conference in Machine Learning and AI. The 33rd edition has gathered 13,000 attendees, with a program covering all subfields of. . .                                     						                                                  30 Dec 2019                                                                                                      Aartika Rai Attended WiML 2019 in Vancouver, Canada      :       Thanks to CS Women and Women for UMass, I attended the Women in Machine Learning workshop held in Vancouver, Canada, on December 9th. At the poster session, I presented my. . .                                     						                                                  25 Dec 2019                                                                                                      Fall 2019 Semester Recap      :       Hi CSWomen,                                    						                                                  22 Dec 2019                                                     "
+    "body": "           All Posts:                                                             Cecilia Ferrando Attended NeurIPS 2019      :       This December I attended my first NeurIPS conference, the largest conference in Machine Learning and AI. The 33rd edition has gathered 13,000 attendees, with a program covering all subfields of. . .                                     						                                                  30 Dec 2019                                                                                             Aartika Rai Attended WiML 2019 in Vancouver, Canada      :       Thanks to CS Women and Women for UMass, I attended the Women in Machine Learning workshop held in Vancouver, Canada, on December 9th. At the poster session, I presented my. . .                                     						                                                  25 Dec 2019                                                                                             Fall 2019 Semester Recap      :       Hi CSWomen,                                    						                                                  22 Dec 2019                                          "
     }, {
     "id": 8,
     "url": "http://localhost:4000/blog",
@@ -98,77 +98,77 @@ var documents = [{
     "id": 19,
     "url": "http://localhost:4000/blog/page2/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 20,
     "url": "http://localhost:4000/blog/page3/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 21,
     "url": "http://localhost:4000/blog/page4/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 22,
     "url": "http://localhost:4000/blog/page5/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 23,
     "url": "http://localhost:4000/blog/page6/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 24,
     "url": "http://localhost:4000/blog/page7/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 25,
     "url": "http://localhost:4000/blog/page8/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 26,
     "url": "http://localhost:4000/blog/page9/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 27,
     "url": "http://localhost:4000/blog/page10/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 28,
     "url": "http://localhost:4000/blog/page11/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 29,
     "url": "http://localhost:4000/blog/page12/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 30,
     "url": "http://localhost:4000/blog/page13/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 31,
     "url": "http://localhost:4000/blog/page14/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 32,
     "url": "http://localhost:4000/blog/page15/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 33,
     "url": "http://localhost:4000/blog/page16/",
     "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:           {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}      {% endif %}             All Posts:               {% for post in paginator. posts %}        {% include postbox. html %}         {% endfor %}        "
+    "body": "{% if page. url == “/” %} {% endif %}           All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}  "
     }, {
     "id": 34,
     "url": "http://localhost:4000/travel-cecilia/",

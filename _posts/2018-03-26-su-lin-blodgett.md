@@ -5,7 +5,7 @@ date: 2018-03-26 00:00:00
 categories: social
 author: kritishrivastava
 image: assets/images/blog/blodgett-video.png
-featured: true
+# featured: true
 ---
 <br/><br/>
 >Su Lin Blodgett, PhD student at UMass, describes her research and what makes CICS a great place for women graduate students.
