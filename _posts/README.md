@@ -20,6 +20,7 @@ In moving to hosting our [group's webpage on GitHub](http://cswomenumass.github.
       thumbnail: /images/<pic_filename>
     ```
   - Name the file like so: `<YYYY>-<MM>-<DD>-<post_title>.md`. You can compare with exisiting files in this repository.
+  - If you want to set a certain post as a featured post, add `featured: true` to this part. Also, uncomment the `Featured` section in `index.html`.
 * Ensure that everything renders okay:
   * Run `bundle exec jekyll serve`.
   * Open `http://localhost:4000`. You will just see blog post summaries displayed.
