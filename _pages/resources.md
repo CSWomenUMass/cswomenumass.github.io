@@ -5,6 +5,13 @@ permalink: /resources
 order: 5
 ---
 
+# Conferences
+
+## [Grace Hopper Celebration for Women in Computing](http://ghc.anitab.org)
+
+*     [Official GHC Scholarships](https://ghc.anitab.org/2020-attend/scholarships-registrations/)
+*     Additional scholarships can be found [here](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships). (Keep an eye out for updates on this link)
+
 # Organizations
 
 ## [Anita Borg Institute for Women in Technology (ABI)](http://www.anitaborg.org/)
