@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: Get Involved!
 permalink: /get-involved
 order: 4
