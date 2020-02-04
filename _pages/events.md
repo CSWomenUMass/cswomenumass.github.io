@@ -5,7 +5,7 @@ permalink: /events
 order: 2
 ---
 # Events in Spring 2020
-* GHC Information Panel
+* GHC Information Panel (2/12)
 
 # Events Held in Fall 2019
 * Semester welcome and board games lunch (9/11) 
