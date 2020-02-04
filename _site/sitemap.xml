@@ -193,6 +193,10 @@
 <lastmod>2019-12-30T19:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/travel-lobo/</loc>
+<lastmod>2020-02-03T19:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -335,5 +339,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/page16/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page17/</loc>
 </url>
 </urlset>
