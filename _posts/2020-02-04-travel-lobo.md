@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elita Ferrando Attended NeurIPS 2019"
+title: "Elita Lobo Attended NeurIPS 2019"
 date: 2020-02-04 00:00:00
 categories: travelgrant
 author: linglonglinglong
