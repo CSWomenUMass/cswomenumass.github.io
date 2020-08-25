@@ -12,7 +12,7 @@ order: 2
 * Hema Raghavan, Director of Engineering at LinkedIn (9/20) 
 * Google Resume Workshop (9/20) 
 * CSWomen Hike to Mount Norwottuck (10/4) 
-* Ananya Howard, Mark C. Smith Professor and Chair of the School of Interactive Computing in the College of Computing at Georgia Tech  (10/7) 
+* Ayanna Howard, Mark C. Smith Professor and Chair of the School of Interactive Computing in the College of Computing at Georgia Tech  (10/7) 
 * Halloween Tea (10/31) 
 * Graduate Student Panel (12/3) 
 <!-- 
