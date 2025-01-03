@@ -15,7 +15,7 @@ order: 4
 
 All of these and more are great reasons to get involved with CS Women! 
 
-To get in touch with us, please send us an email at `grad_cswomenchairs@cs.umass.edu`.
+To get in touch with us, please send us an email at grad_cswomenchairs at cs dot umass dot edu.
 
 # Positions & Officers
 Why get more involved with CS Women? Officers have a high degree of contact with faculty and are asked to participate in high-profile events. It's a great way to make friends, make research connections, and have fun or whatever.
